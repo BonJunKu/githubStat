@@ -10,7 +10,6 @@
 - 음악과 탁구를 좋아합니다.
 <br />
 <br />  
-
 # ⚙ Skills
 ### Frontend
 - HTML5, CSS3, JavaScript(ES6)
@@ -24,12 +23,12 @@
 - Visual Studio Code
 - Slack
 <br />
-<br />
+<br />  
 # Experiences
 :sparkles: 신촌IT창업동아리 <a link="https://www.ceos.or.kr/">CEOS</a> 프론트엔드 팀(2021.09~)
 🍀 네이버 부스트캠프 챌린지 6기 수료 (2021.07~2021.08)
 🖊 SDS 하계 대학생 알고리즘 캠프 (2021.07)
 <br />
-<br />
+<br />  
 # Education
 🏫 서강대학교 졸업 - 기계공학/인공지능 복수전공 (2015.02~2021.08)
