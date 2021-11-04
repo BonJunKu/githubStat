@@ -1,8 +1,8 @@
 # 👋 안녕하세요!
 어제보다 더 성장하는 프론트엔드 개발자 구본준입니다.<br />
 [![Bonjun Ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjunku)](https://github.com/anuraghazra/github-readme-stats)
-- <a link="https://zaraza.tistory.com">개발 블로그 바로가기</a>
-- <a link="https://ranggun.tistory.com/">개인 블로그 바로가기</a>
+- <a href="https://zaraza.tistory.com">개발 블로그 바로가기</a>
+- <a href="https://ranggun.tistory.com/">개인 블로그 바로가기</a>
 <br />
 <br />
 # 💁🏻 About Me
@@ -31,7 +31,7 @@
 <br />    
 
 # Experiences
-- :sparkles: 신촌IT창업동아리 <a link="https://www.ceos.or.kr/">CEOS</a> 프론트엔드 팀(2021.09~)
+- :sparkles: 신촌IT창업동아리 <a href="https://www.ceos.or.kr/">CEOS</a> 프론트엔드 팀(2021.09~)
 - 🍀 네이버 부스트캠프 챌린지 6기 수료 (2021.07~2021.08)
 - 🖊 SDS 하계 대학생 알고리즘 캠프 (2021.07)
 <br />  
