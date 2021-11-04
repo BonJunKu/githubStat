@@ -1,6 +1,8 @@
 # 👋 안녕하세요!
 어제보다 더 성장하는 프론트엔드 개발자 구본준입니다.<br />
 [![Bonjun Ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjunku)](https://github.com/anuraghazra/github-readme-stats)
+- <a link="https://zaraza.tistory.com">개발 블로그 바로가기</a>
+- <a link="https://ranggun.tistory.com/">개인 블로그 바로가기</a>
 <br />
 <br />
 # 💁🏻 About Me
