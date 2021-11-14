@@ -38,4 +38,7 @@
 - 서강대학교 졸업 - 기계공학/인공지능 복수전공 (2015.02~2021.08)  
 
 # 🧾 Certificate
-- 정보처리기사 (2021.06)
+- 정보처리기사 (2021.06)  
+
+# 📚 Study log
+- <a href= "https://zaraza.notion.site/Study-log-017aa771ac69470d9ad4a326c21867a2">공부한 책들을 기록합니다</a>
