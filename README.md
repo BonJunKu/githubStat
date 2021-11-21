@@ -40,5 +40,10 @@
 # 🧾 Certificate
 - 정보처리기사 (2021.06)  
 
+# 💡 Contribution log
+- <a href= "https://zaraza.notion.site/Contiribution-log-3616b00816224f5c8f57d1bf61e15370">오픈소스 기여 목록</a>  
+
+
 # 📚 Study log
-- <a href= "https://zaraza.notion.site/Study-log-017aa771ac69470d9ad4a326c21867a2">공부한 책들을 기록합니다</a>
+- <a href= "https://zaraza.notion.site/Study-log-017aa771ac69470d9ad4a326c21867a2">공부 내용 기록</a>
+
