@@ -20,7 +20,6 @@
 - TypeScript
 ### Backend
 - Node.js
-- Express
 ### Tools
 - Git
 - Visual Studio Code
