@@ -25,6 +25,7 @@
 ### Tools
 - Git
 - Visual Studio Code
+- Postman
 - Slack
 
 # 🏆 Awards
