@@ -18,6 +18,7 @@
 - HTML5, CSS3, JavaScript(ES6)
 - React
 - TypeScript
+- Styled-Components, NextUI
 ### Backend
 - Node.js
 - Express
