@@ -40,7 +40,8 @@
 - 서강대학교 졸업 - 기계공학/인공지능 복수전공 (2015.02~2021.08)  
 
 # 🧾 Certificate
-- 정보처리기사 (2021.06)  
+- 정보처리기사 (2021.06.02)
+- AWS Cloud Practitioner (2021.12.31)  
 
 # 💡 Contribution log
 - <a href= "https://zaraza.notion.site/Contiribution-log-3616b00816224f5c8f57d1bf61e15370">오픈소스 기여 목록</a>  
