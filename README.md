@@ -49,15 +49,3 @@
 
 # 📚 Study log
 - <a href= "https://zaraza.notion.site/Study-log-017aa771ac69470d9ad4a326c21867a2">공부 내용 기록</a>
-
-# 줄바꿈 테스트
-줄바꿈테스트
-줄바꿈테스트
-
-줄바꿈테스트
-줄바꿈테스트\
-줄바꿈테스트\
-\
-\
-줄바꿈테스트
-
