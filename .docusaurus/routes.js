@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '9e1'),
+    component: ComponentCreator('/blog', '91a'),
     exact: true
   },
   {
@@ -50,6 +50,11 @@ export default [
   {
     path: '/blog/first-blog-post',
     component: ComponentCreator('/blog/first-blog-post', '59e'),
+    exact: true
+  },
+  {
+    path: '/blog/greeetings',
+    component: ComponentCreator('/blog/greeetings', '549'),
     exact: true
   },
   {
@@ -78,6 +83,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/greetings',
+    component: ComponentCreator('/blog/tags/greetings', '18c'),
+    exact: true
+  },
+  {
     path: '/blog/tags/hello',
     component: ComponentCreator('/blog/tags/hello', 'e26'),
     exact: true
@@ -98,13 +108,18 @@ export default [
     exact: true
   },
   {
+    path: '/my-markdown-page',
+    component: ComponentCreator('/my-markdown-page', '0b3'),
+    exact: true
+  },
+  {
     path: '/my-react-page',
     component: ComponentCreator('/my-react-page', '90f'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd1f'),
+    component: ComponentCreator('/docs', 'f12'),
     routes: [
       {
         path: '/docs/category/tutorial---basics',
@@ -115,6 +130,12 @@ export default [
       {
         path: '/docs/category/tutorial---extras',
         component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/hello',
+        component: ComponentCreator('/docs/hello', '7a8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

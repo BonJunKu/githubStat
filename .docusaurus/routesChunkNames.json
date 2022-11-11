@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debuga-0-b-97e"
     }
   },
-  "/blog-9e1": {
+  "/blog-91a": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blogdcd-095"
@@ -54,6 +54,9 @@
       },
       {
         "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blogf-96-107"
       },
       {
         "content": "content---blog-871-381"
@@ -78,6 +81,14 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/greeetings-549": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogdcd-095"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-greeetingsa-7-a-ac0"
   },
   "/blog/long-blog-post-ca8": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -140,6 +151,20 @@
     "tag": "tag---blog-tags-facebook-031-c52",
     "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
   },
+  "/blog/tags/greetings-18c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogdcd-095"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-96-107"
+      }
+    ],
+    "tag": "tag---blog-tags-greetingsce-0-3c2",
+    "listMetadata": "listMetadata---blog-tags-greetingsc-8-c-f35"
+  },
   "/blog/tags/hello-e26": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -186,14 +211,21 @@
     },
     "content": "content---markdown-page-393-028"
   },
+  "/my-markdown-page-0b3": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-0-a-5-e30"
+    },
+    "content": "content---my-markdown-page-031-4dc"
+  },
   "/my-react-page-90f": {
     "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
     "__context": {
       "plugin": "plugin---markdown-page-0-a-5-e30"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-d1f": {
+  "/docs-f12": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsd-05-7bd"
@@ -207,6 +239,10 @@
   "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+  },
+  "/docs/hello-7a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-hello-9-df-13a"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -249,6 +285,6 @@
     "__context": {
       "plugin": "plugin---markdown-page-0-a-5-e30"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---my-react-page-5-e-9-dcc"
   }
 }

@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "title": "Bonjun Ku",
+  "tagline": "Hello world!",
+  "url": "https://bonjunku.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "projectName": "BonJunKu",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
