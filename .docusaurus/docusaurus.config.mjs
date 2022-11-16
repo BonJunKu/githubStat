@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Bonjun Ku",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
