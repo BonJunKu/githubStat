@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/intro",
+  "id": "Problem Solving/LeetCode/intro",
+  "title": "Test",
+  "description": "Title",
+  "source": "@site/docs/Problem Solving/LeetCode/intro.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/intro",
+  "permalink": "/docs/Problem Solving/LeetCode/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}

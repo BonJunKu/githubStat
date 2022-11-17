@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Problem Solving/intro copy",
+  "id": "Problem Solving/intro copy",
+  "title": "Test",
+  "description": "Title",
+  "source": "@site/docs/Problem Solving/intro copy.md",
+  "sourceDirName": "Problem Solving",
+  "slug": "/Problem Solving/intro copy",
+  "permalink": "/docs/Problem Solving/intro copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Test",
+    "permalink": "/docs/Problem Solving/intro"
+  }
+}

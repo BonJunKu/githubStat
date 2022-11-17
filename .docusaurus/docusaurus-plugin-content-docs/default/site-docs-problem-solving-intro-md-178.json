@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Problem Solving/intro",
+  "id": "Problem Solving/intro",
+  "title": "Intro",
+  "description": "The reason why I practice solving algorithmic problems",
+  "source": "@site/docs/Problem Solving/intro.md",
+  "sourceDirName": "Problem Solving",
+  "slug": "/Problem Solving/intro",
+  "permalink": "/docs/Problem Solving/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Test",
+    "permalink": "/docs/Problem Solving/LeetCode/intro copy"
+  }
+}

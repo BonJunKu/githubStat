@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Problem Solving/about",
+  "id": "Problem Solving/about",
+  "title": "About",
+  "description": "- LeetCode : BonJunKu",
+  "source": "@site/docs/Problem Solving/about.md",
+  "sourceDirName": "Problem Solving",
+  "slug": "/Problem Solving/about",
+  "permalink": "/docs/Problem Solving/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Test",
+    "permalink": "/docs/Problem Solving/LeetCode/intro copy"
+  }
+}

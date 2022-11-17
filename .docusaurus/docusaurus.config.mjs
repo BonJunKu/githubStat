@@ -26,12 +26,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/bonjun/github/BonJunKu/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/bonjun/github/BonJunKu/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/Users/bonjun/github/BonJunKu/src/css/custom.css"
@@ -54,14 +52,9 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "Problem Solving/about",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "label": "Problem Solving"
         },
         {
           "href": "https://github.com/bonjunku",
@@ -78,38 +71,25 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Problem Solving",
+              "to": "/docs/Problem Solving/about"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Contact",
           "items": [
             {
-              "label": "Stack Overflow",
+              "label": "Linkedin",
               "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
-              "label": "Discord",
+              "label": "GitHub",
               "href": "https://discordapp.com/invite/docusaurus"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Email",
+              "href": "mailto:bonjunku.dev@gmail.com"
             }
           ]
         }

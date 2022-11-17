@@ -225,60 +225,20 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-f12": {
+  "/docs-330": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsd-05-7bd"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/tutorial---basics-d44": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
-  },
-  "/docs/category/tutorial---extras-f09": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
-  },
-  "/docs/hello-7a8": {
+  "/docs/Problem Solving/about-b4d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hello-9-df-13a"
+    "content": "content---docs-problem-solving-about-99-b-4bf"
   },
-  "/docs/intro-aed": {
+  "/docs/Problem Solving/LeetCode/intro copy-fbc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-problem-solving-leet-code-intro-copy-854-165"
   },
   "/-f9c": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
