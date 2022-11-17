@@ -81,7 +81,7 @@ export default {
           "items": [
             {
               "label": "Linkedin",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "href": "https://www.linkedin.com/in/bonjunku/"
             },
             {
               "label": "GitHub",
