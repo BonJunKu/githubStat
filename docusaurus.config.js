@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bonjun Ku',
-  tagline: 'Hello world!',
+  tagline: 'Software Engineer',
   url: 'https://bonjunku.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -56,6 +56,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'Bonjun Ku',
         logo: {
@@ -71,7 +75,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/bonjunku',
             label: 'GitHub',
             position: 'right',
           },
@@ -120,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bonjun Ku All rights reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
