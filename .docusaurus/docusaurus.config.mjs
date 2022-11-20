@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Bonjun Ku",
-  "tagline": "Software Engineer",
+  "tagline": "Talk is cheap. Let's write.",
   "url": "https://bonjunku.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",

@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bonjun Ku',
-  tagline: 'Software Engineer',
+  tagline: `Talk is cheap. Let's write.`,
   url: 'https://bonjunku.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
