@@ -29,7 +29,7 @@
             "items": [
               {
                 "type": "link",
-                "label": "Test",
+                "label": "125. Valid Palindrome",
                 "href": "/docs/Problem Solving/LeetCode/intro copy",
                 "docId": "Problem Solving/LeetCode/intro copy"
               }
@@ -48,8 +48,8 @@
     },
     "Problem Solving/LeetCode/intro copy": {
       "id": "Problem Solving/LeetCode/intro copy",
-      "title": "Test",
-      "description": "Title",
+      "title": "125. Valid Palindrome",
+      "description": "Description",
       "sidebar": "tutorialSidebar"
     }
   }
