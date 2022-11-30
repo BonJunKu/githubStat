@@ -16,8 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problem Solving/LeetCode/intro copy",
-              "path": "/docs/Problem Solving/LeetCode/intro copy",
+              "id": "Problem Solving/LeetCode/array-partition",
+              "path": "/docs/Problem Solving/LeetCode/array-partition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/LeetCode/valid-palindrome",
+              "path": "/docs/Problem Solving/LeetCode/valid-palindrome",
               "sidebar": "tutorialSidebar"
             }
           ],

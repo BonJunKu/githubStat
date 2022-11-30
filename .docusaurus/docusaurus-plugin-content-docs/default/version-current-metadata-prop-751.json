@@ -30,8 +30,14 @@
               {
                 "type": "link",
                 "label": "125. Valid Palindrome",
-                "href": "/docs/Problem Solving/LeetCode/intro copy",
-                "docId": "Problem Solving/LeetCode/intro copy"
+                "href": "/docs/Problem Solving/LeetCode/valid-palindrome",
+                "docId": "Problem Solving/LeetCode/valid-palindrome"
+              },
+              {
+                "type": "link",
+                "label": "561. Array Partition",
+                "href": "/docs/Problem Solving/LeetCode/array-partition",
+                "docId": "Problem Solving/LeetCode/array-partition"
               }
             ]
           }
@@ -46,8 +52,14 @@
       "description": "- LeetCode : BonJunKu",
       "sidebar": "tutorialSidebar"
     },
-    "Problem Solving/LeetCode/intro copy": {
-      "id": "Problem Solving/LeetCode/intro copy",
+    "Problem Solving/LeetCode/array-partition": {
+      "id": "Problem Solving/LeetCode/array-partition",
+      "title": "561. Array Partition",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/valid-palindrome": {
+      "id": "Problem Solving/LeetCode/valid-palindrome",
       "title": "125. Valid Palindrome",
       "description": "Description",
       "sidebar": "tutorialSidebar"

@@ -119,7 +119,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '330'),
+    component: ComponentCreator('/docs', '41e'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -128,8 +128,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/intro copy',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/intro copy', 'fbc'),
+        path: '/docs/Problem Solving/LeetCode/array-partition',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/array-partition', '311'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/valid-palindrome',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/valid-palindrome', '4d1'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

@@ -36,26 +36,51 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "125. Valid Palindrome",
-                "permalink": "/docs/Problem Solving/LeetCode/intro copy"
+                "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
               }
             },
             {
-              "unversionedId": "Problem Solving/LeetCode/intro copy",
-              "id": "Problem Solving/LeetCode/intro copy",
-              "title": "125. Valid Palindrome",
+              "unversionedId": "Problem Solving/LeetCode/array-partition",
+              "id": "Problem Solving/LeetCode/array-partition",
+              "title": "561. Array Partition",
               "description": "Description",
-              "source": "@site/docs/Problem Solving/LeetCode/intro copy.md",
+              "source": "@site/docs/Problem Solving/LeetCode/561-array-partition.md",
               "sourceDirName": "Problem Solving/LeetCode",
-              "slug": "/Problem Solving/LeetCode/intro copy",
-              "permalink": "/docs/Problem Solving/LeetCode/intro copy",
+              "slug": "/Problem Solving/LeetCode/array-partition",
+              "permalink": "/docs/Problem Solving/LeetCode/array-partition",
               "draft": false,
               "tags": [],
               "version": "current",
+              "sidebarPosition": 561,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "125. Valid Palindrome",
+                "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/LeetCode/valid-palindrome",
+              "id": "Problem Solving/LeetCode/valid-palindrome",
+              "title": "125. Valid Palindrome",
+              "description": "Description",
+              "source": "@site/docs/Problem Solving/LeetCode/125-valid-palindrome.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/valid-palindrome",
+              "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 125,
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "About",
                 "permalink": "/docs/Problem Solving/about"
+              },
+              "next": {
+                "title": "561. Array Partition",
+                "permalink": "/docs/Problem Solving/LeetCode/array-partition"
               }
             }
           ],
@@ -80,7 +105,11 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "Problem Solving/LeetCode/intro copy"
+                        "id": "Problem Solving/LeetCode/valid-palindrome"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/array-partition"
                       }
                     ]
                   }
