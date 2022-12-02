@@ -51,15 +51,15 @@ export default {
       },
       "items": [
         {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
           "type": "doc",
           "docId": "Problem Solving/about",
           "position": "left",
           "label": "Problem Solving"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
         },
         {
           "href": "https://github.com/bonjunku",
@@ -76,8 +76,16 @@ export default {
           "title": "Docs",
           "items": [
             {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
               "label": "Problem Solving",
               "to": "/docs/Problem Solving/about"
+            },
+            {
+              "label": "Tags",
+              "to": "/blog/tags"
             }
           ]
         },
