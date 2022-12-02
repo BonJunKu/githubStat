@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/product-of-array-except-self",
+              "path": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/valid-palindrome",
               "path": "/docs/Problem Solving/LeetCode/valid-palindrome",
               "sidebar": "tutorialSidebar"

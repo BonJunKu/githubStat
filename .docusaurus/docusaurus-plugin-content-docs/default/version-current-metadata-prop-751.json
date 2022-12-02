@@ -35,6 +35,12 @@
               },
               {
                 "type": "link",
+                "label": "238. Product of Array Except Self",
+                "href": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
+                "docId": "Problem Solving/LeetCode/product-of-array-except-self"
+              },
+              {
+                "type": "link",
                 "label": "561. Array Partition",
                 "href": "/docs/Problem Solving/LeetCode/array-partition",
                 "docId": "Problem Solving/LeetCode/array-partition"
@@ -55,6 +61,12 @@
     "Problem Solving/LeetCode/array-partition": {
       "id": "Problem Solving/LeetCode/array-partition",
       "title": "561. Array Partition",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/product-of-array-except-self": {
+      "id": "Problem Solving/LeetCode/product-of-array-except-self",
+      "title": "238. Product of Array Except Self",
       "description": "Description",
       "sidebar": "tutorialSidebar"
     },

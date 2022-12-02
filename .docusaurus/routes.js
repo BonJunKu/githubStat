@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '41e'),
+    component: ComponentCreator('/docs', 'bf3'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -90,6 +90,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/array-partition',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/array-partition', '311'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/product-of-array-except-self',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/product-of-array-except-self', 'd6c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
