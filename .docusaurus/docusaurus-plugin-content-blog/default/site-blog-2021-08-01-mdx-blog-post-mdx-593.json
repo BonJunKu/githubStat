@@ -33,11 +33,7 @@
     ]
   },
   "prevItem": {
-    "title": "Welcome",
-    "permalink": "/blog/welcome"
-  },
-  "nextItem": {
-    "title": "Greetings!!",
-    "permalink": "/blog/greeetings"
+    "title": "2022 회고",
+    "permalink": "/blog/2022 회고"
   }
 }

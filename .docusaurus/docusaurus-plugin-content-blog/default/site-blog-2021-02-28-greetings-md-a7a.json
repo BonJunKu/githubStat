@@ -55,9 +55,5 @@
   "prevItem": {
     "title": "MDX Blog Post",
     "permalink": "/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
   }
 }

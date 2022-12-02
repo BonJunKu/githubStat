@@ -38,9 +38,5 @@
   "prevItem": {
     "title": "Greetings!!",
     "permalink": "/blog/greeetings"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
   }
 }
