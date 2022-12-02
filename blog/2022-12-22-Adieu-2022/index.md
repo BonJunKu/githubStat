@@ -1,11 +1,7 @@
 ---
 slug: 2022 회고
 title: 2022 회고
-authors:
-  - name: Bonjun Ku
-    title: Software Engineer
-    url: https://github.com/bonjunku
-    image_url: https://avatars.githubusercontent.com/u/62752488?v=4
+authors: bonjun
 tags: [diary]
 ---
 
