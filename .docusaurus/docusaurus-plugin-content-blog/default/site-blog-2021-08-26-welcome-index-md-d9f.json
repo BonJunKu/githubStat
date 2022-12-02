@@ -50,6 +50,10 @@
       "docusaurus"
     ]
   },
+  "prevItem": {
+    "title": "2022 회고",
+    "permalink": "/blog/2022 회고"
+  },
   "nextItem": {
     "title": "MDX Blog Post",
     "permalink": "/blog/mdx-blog-post"

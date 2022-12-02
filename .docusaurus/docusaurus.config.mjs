@@ -57,6 +57,11 @@ export default {
           "label": "Problem Solving"
         },
         {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
           "href": "https://github.com/bonjunku",
           "label": "GitHub",
           "position": "right"

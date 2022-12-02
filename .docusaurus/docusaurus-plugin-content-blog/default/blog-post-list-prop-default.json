@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "2022 회고",
+      "permalink": "/blog/2022 회고"
+    },
+    {
       "title": "Welcome",
       "permalink": "/blog/welcome"
     },
@@ -16,10 +20,6 @@
     {
       "title": "Long Blog Post",
       "permalink": "/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post"
     }
   ]
 }

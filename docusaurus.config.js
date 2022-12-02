@@ -73,7 +73,7 @@ const config = {
             position: 'left',
             label: 'Problem Solving',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/bonjunku',
             label: 'GitHub',
