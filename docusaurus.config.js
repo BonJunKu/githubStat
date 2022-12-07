@@ -24,7 +24,15 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ko'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-US',
+      },
+      ko: {
+        htmlLang: 'ko',
+      },
+    },
   },
 
   presets: [
@@ -78,6 +86,10 @@ const config = {
           {
             href: 'https://github.com/bonjunku',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],

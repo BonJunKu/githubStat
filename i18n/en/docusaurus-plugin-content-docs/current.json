@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Problem Solving": {
+    "message": "Problem Solving",
+    "description": "The label for category Problem Solving in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.LeetCode": {
+    "message": "LeetCode",
+    "description": "The label for category LeetCode in sidebar tutorialSidebar"
+  }
+}

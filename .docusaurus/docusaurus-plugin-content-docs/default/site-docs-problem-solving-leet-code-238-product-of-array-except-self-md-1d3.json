@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/238-product-of-array-except-self.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/product-of-array-except-self",
-  "permalink": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/product-of-array-except-self",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/valid-palindrome"
   },
   "next": {
     "title": "561. Array Partition",
-    "permalink": "/docs/Problem Solving/LeetCode/array-partition"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/array-partition"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/125-valid-palindrome.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/valid-palindrome",
-  "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/valid-palindrome",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "About",
-    "permalink": "/docs/Problem Solving/about"
+    "permalink": "/ko/docs/Problem Solving/about"
   },
   "next": {
     "title": "238. Product of Array Except Self",
-    "permalink": "/docs/Problem Solving/LeetCode/product-of-array-except-self"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/product-of-array-except-self"
   }
 }

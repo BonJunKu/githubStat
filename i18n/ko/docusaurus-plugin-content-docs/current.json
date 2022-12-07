@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Problem Solving": {
+    "message": "문제 풀이",
+    "description": "The label for category Problem Solving in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.LeetCode": {
+    "message": "리트코드",
+    "description": "The label for category LeetCode in sidebar tutorialSidebar"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "title": "Recent posts",
+  "title": "최근 글",
   "items": [
     {
       "title": "2022 회고",
-      "permalink": "/blog/2022 회고"
+      "permalink": "/ko/blog/2022 회고"
     }
   ]
 }

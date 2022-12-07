@@ -3,113 +3,113 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '2c1'),
+    path: '/ko/__docusaurus/debug',
+    component: ComponentCreator('/ko/__docusaurus/debug', '26a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'eb6'),
+    path: '/ko/__docusaurus/debug/config',
+    component: ComponentCreator('/ko/__docusaurus/debug/config', 'a6b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'ba3'),
+    path: '/ko/__docusaurus/debug/content',
+    component: ComponentCreator('/ko/__docusaurus/debug/content', 'b2b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '016'),
+    path: '/ko/__docusaurus/debug/globalData',
+    component: ComponentCreator('/ko/__docusaurus/debug/globalData', '7bb'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '741'),
+    path: '/ko/__docusaurus/debug/metadata',
+    component: ComponentCreator('/ko/__docusaurus/debug/metadata', 'd26'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '03c'),
+    path: '/ko/__docusaurus/debug/registry',
+    component: ComponentCreator('/ko/__docusaurus/debug/registry', 'b92'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '5b5'),
+    path: '/ko/__docusaurus/debug/routes',
+    component: ComponentCreator('/ko/__docusaurus/debug/routes', 'd85'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '4a9'),
+    path: '/ko/blog',
+    component: ComponentCreator('/ko/blog', '252'),
     exact: true
   },
   {
-    path: '/blog/2022 회고',
-    component: ComponentCreator('/blog/2022 회고', '5ec'),
+    path: '/ko/blog/2022 회고',
+    component: ComponentCreator('/ko/blog/2022 회고', 'd26'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'a2e'),
+    path: '/ko/blog/archive',
+    component: ComponentCreator('/ko/blog/archive', '581'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '055'),
+    path: '/ko/blog/tags',
+    component: ComponentCreator('/ko/blog/tags', '4e8'),
     exact: true
   },
   {
-    path: '/blog/tags/diary',
-    component: ComponentCreator('/blog/tags/diary', '35e'),
+    path: '/ko/blog/tags/diary',
+    component: ComponentCreator('/ko/blog/tags/diary', 'cff'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '961'),
+    path: '/ko/markdown-page',
+    component: ComponentCreator('/ko/markdown-page', '331'),
     exact: true
   },
   {
-    path: '/my-markdown-page',
-    component: ComponentCreator('/my-markdown-page', '0b3'),
+    path: '/ko/my-markdown-page',
+    component: ComponentCreator('/ko/my-markdown-page', '449'),
     exact: true
   },
   {
-    path: '/my-react-page',
-    component: ComponentCreator('/my-react-page', '90f'),
+    path: '/ko/my-react-page',
+    component: ComponentCreator('/ko/my-react-page', '540'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'bf3'),
+    path: '/ko/docs',
+    component: ComponentCreator('/ko/docs', '179'),
     routes: [
       {
-        path: '/docs/Problem Solving/about',
-        component: ComponentCreator('/docs/Problem Solving/about', 'b4d'),
+        path: '/ko/docs/Problem Solving/about',
+        component: ComponentCreator('/ko/docs/Problem Solving/about', '134'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/array-partition',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/array-partition', '311'),
+        path: '/ko/docs/Problem Solving/LeetCode/array-partition',
+        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/array-partition', '63a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/product-of-array-except-self',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/product-of-array-except-self', 'd6c'),
+        path: '/ko/docs/Problem Solving/LeetCode/product-of-array-except-self',
+        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/product-of-array-except-self', 'c71'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/valid-palindrome',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/valid-palindrome', '4d1'),
+        path: '/ko/docs/Problem Solving/LeetCode/valid-palindrome',
+        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/valid-palindrome', '9bd'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'f9c'),
+    path: '/ko/',
+    component: ComponentCreator('/ko/', '613'),
     exact: true
   },
   {
