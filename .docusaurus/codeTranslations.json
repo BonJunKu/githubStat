@@ -59,7 +59,7 @@
   "theme.lastUpdated.atDate": " on {date}",
   "theme.lastUpdated.byUser": " by {user}",
   "theme.lastUpdated.lastUpdatedAtBy": "Last updated{atDate}{byUser}",
-  "theme.navbar.mobileLanguageDropdown.label": "Languages",
+  "theme.navbar.mobileLanguageDropdown.label": "언어 전환",
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": "← Back to main menu",
   "theme.navbar.mobileVersionsDropdown.label": "Versions",
   "theme.tags.tagsListLabel": "태그:",

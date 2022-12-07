@@ -217,7 +217,7 @@
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
+    "message": "언어 전환",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.blog.post.readMore": {
