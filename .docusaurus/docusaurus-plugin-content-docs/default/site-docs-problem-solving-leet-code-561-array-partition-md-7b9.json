@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/561-array-partition.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/array-partition",
-  "permalink": "/docs/Problem Solving/LeetCode/array-partition",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/array-partition",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "238. Product of Array Except Self",
-    "permalink": "/docs/Problem Solving/LeetCode/product-of-array-except-self"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/product-of-array-except-self"
   }
 }

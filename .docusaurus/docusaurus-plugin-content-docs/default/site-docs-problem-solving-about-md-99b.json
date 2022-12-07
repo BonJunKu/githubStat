@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/about.md",
   "sourceDirName": "Problem Solving",
   "slug": "/Problem Solving/about",
-  "permalink": "/docs/Problem Solving/about",
+  "permalink": "/ko/docs/Problem Solving/about",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/valid-palindrome"
   }
 }

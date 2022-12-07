@@ -1,33 +1,33 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/ko/docs",
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "다음",
           "isLast": true,
-          "path": "/docs",
+          "path": "/ko/docs",
           "mainDocId": "Problem Solving/about",
           "docs": [
             {
               "id": "Problem Solving/about",
-              "path": "/docs/Problem Solving/about",
+              "path": "/ko/docs/Problem Solving/about",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/array-partition",
-              "path": "/docs/Problem Solving/LeetCode/array-partition",
+              "path": "/ko/docs/Problem Solving/LeetCode/array-partition",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/product-of-array-except-self",
-              "path": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
+              "path": "/ko/docs/Problem Solving/LeetCode/product-of-array-except-self",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/valid-palindrome",
-              "path": "/docs/Problem Solving/LeetCode/valid-palindrome",
+              "path": "/ko/docs/Problem Solving/LeetCode/valid-palindrome",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -35,7 +35,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Problem Solving/about",
+                "path": "/ko/docs/Problem Solving/about",
                 "label": "Problem Solving/about"
               }
             }
