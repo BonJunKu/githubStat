@@ -118,11 +118,11 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous",
+    "message": "이전 글",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "다음",
+    "message": "다음 글",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.DocCard.categoryDescription": {
