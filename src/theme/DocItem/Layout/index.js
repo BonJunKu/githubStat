@@ -49,6 +49,22 @@ export default function DocItemLayout({ children }) {
           </article>
           <DocItemPaginator />
         </div>
+        <br />
+        <br />
+        <Giscus
+          id='comments'
+          repo='BonJunKu/BonJunKu'
+          repoId='R_kgDOGHrcBw'
+          category='Comments'
+          categoryId='DIC_kwDOGHrcB84CS81C'
+          mapping='pathname'
+          reactionsEnabled='1'
+          emitMetadata='0'
+          inputPosition='top'
+          theme={colorMode}
+          lang='en'
+          loading='lazy'
+        />
       </div>
       {docTOC.desktop && <div className='col col--3'>{docTOC.desktop}</div>}
     </div>
