@@ -6,6 +6,11 @@ Given an integer array `nums` of `2n` integers, group these integers into `n` pa
 
 [You can read the full description here.](https://leetcode.com/problems/array-partition/description/)
 
+## Approach
+
+1. To keep large numbers from the min function, you should make pairs with similar values. So sort is necessary.
+2. `.sort()` is faster than `sorted()`
+
 ## Solution
 
 ```python
@@ -14,11 +19,6 @@ class Solution:
         nums.sort()
         return sum(nums[::2])
 ```
-
-### Note
-
-1. To keep large numbers from the min function, you should make pairs with similar values. So sort is necessary.
-2. `.sort()` is faster than `sorted()`
 
 ## Time Complexity
 

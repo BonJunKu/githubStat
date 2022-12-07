@@ -10,6 +10,14 @@ You must write an algorithm that runs in `O(n)` time and without using the divis
 
 [You can read the full description here.](https://leetcode.com/problems/product-of-array-except-self/description/)
 
+## Approach
+
+1. It is impossible to solve this problem with getting whole product and deviding by each element. You can't devide by zero.
+2. To get answer in O(N), you need to get multiplied value in O(1).
+3. So, getting accumulated product is necessary.
+4. You can accumulate each elements from both sides, right and left.
+5. After handling exception, you can get answer easily.
+
 ## Solution
 
 ```python
@@ -35,14 +43,6 @@ class Solution:
 
         return ans
 ```
-
-### Note
-
-1. It is impossible to solve this problem with getting whole product and deviding by each element. You can't devide by zero.
-2. To get answer in O(N), you need to get multiplied value in O(1).
-3. So, getting accumulated product is necessary.
-4. You can accumulate each elements from both sides, right and left.
-5. After handling exception, you can get answer easily.
 
 ## Time Complexity
 

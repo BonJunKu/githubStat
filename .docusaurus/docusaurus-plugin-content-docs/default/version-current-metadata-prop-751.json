@@ -1,7 +1,7 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "다음",
+  "label": "Next",
   "banner": null,
   "badge": false,
   "noIndex": false,
@@ -11,38 +11,38 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "문제 풀이",
+        "label": "Problem Solving",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "About",
-            "href": "/ko/docs/Problem Solving/about",
+            "href": "/docs/Problem Solving/about",
             "docId": "Problem Solving/about"
           },
           {
             "type": "category",
-            "label": "리트코드",
+            "label": "LeetCode",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "125. Valid Palindrome",
-                "href": "/ko/docs/Problem Solving/LeetCode/valid-palindrome",
+                "href": "/docs/Problem Solving/LeetCode/valid-palindrome",
                 "docId": "Problem Solving/LeetCode/valid-palindrome"
               },
               {
                 "type": "link",
                 "label": "238. Product of Array Except Self",
-                "href": "/ko/docs/Problem Solving/LeetCode/product-of-array-except-self",
+                "href": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
                 "docId": "Problem Solving/LeetCode/product-of-array-except-self"
               },
               {
                 "type": "link",
                 "label": "561. Array Partition",
-                "href": "/ko/docs/Problem Solving/LeetCode/array-partition",
+                "href": "/docs/Problem Solving/LeetCode/array-partition",
                 "docId": "Problem Solving/LeetCode/array-partition"
               }
             ]

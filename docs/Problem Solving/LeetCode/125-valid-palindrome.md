@@ -8,6 +8,12 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 
 [You can read the full description here.](https://leetcode.com/problems/valid-palindrome/description/)
 
+## Approach
+
+1. Filter characters. Remove characters except for alphabets or numbers.
+   1. `re.sub` is a good choice.
+2. Compare strings or lists.
+
 ## Solution
 
 ```python
@@ -22,12 +28,6 @@ class Solution:
         # Slicing is O(1), list comparision is O(N)
         return res == res[::-1]
 ```
-
-### Note
-
-1. Filter characters. Remove characters except for alphabets or numbers.
-   1. `re.sub` is a good choice.
-2. Compare strings or lists.
 
 ## Time Complexity
 

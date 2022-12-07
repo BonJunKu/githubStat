@@ -7,7 +7,7 @@ export default {
   "title": "Bonjun Ku",
   "tagline": "Talk is cheap. Let's write.",
   "url": "https://bonjunku.com",
-  "baseUrl": "/ko/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -54,7 +54,7 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "구본준",
+      "title": "Bonjun Ku",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -62,23 +62,23 @@ export default {
       "items": [
         {
           "to": "/blog",
-          "label": "블로그",
+          "label": "Blog",
           "position": "left"
         },
         {
           "type": "doc",
           "docId": "Problem Solving/about",
           "position": "left",
-          "label": "문제 풀이"
+          "label": "Problem Solving"
         },
         {
           "to": "/blog/tags",
-          "label": "태그",
+          "label": "Tags",
           "position": "right"
         },
         {
           "href": "https://github.com/bonjunku",
-          "label": "깃허브",
+          "label": "GitHub",
           "position": "right"
         },
         {
@@ -94,35 +94,35 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "문서목록",
+          "title": "Docs",
           "items": [
             {
-              "label": "블로그",
+              "label": "Blog",
               "to": "/blog"
             },
             {
-              "label": "문제풀이",
+              "label": "Problem Solving",
               "to": "/docs/Problem Solving/about"
             },
             {
-              "label": "태그",
+              "label": "Tags",
               "to": "/blog/tags"
             }
           ]
         },
         {
-          "title": "연락처",
+          "title": "Contact",
           "items": [
             {
-              "label": "링크드인",
+              "label": "Linkedin",
               "href": "https://www.linkedin.com/in/bonjunku/"
             },
             {
-              "label": "깃허브",
+              "label": "GitHub",
               "href": "https://discordapp.com/invite/docusaurus"
             },
             {
-              "label": "이메일",
+              "label": "Email",
               "href": "mailto:bonjunku.dev@gmail.com"
             }
           ]
