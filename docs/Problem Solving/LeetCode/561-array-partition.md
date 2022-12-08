@@ -85,7 +85,7 @@ class Solution:
 
 ### Approach 3 : Phythonic solution with slicing
 
-1. With slicing,code becomes very simple.
+1. With slicing, the implementation code becomes very simple.
 2. Also, it's the **fastest** way!
 
 ### Implementation
