@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/121. Best Time to Buy and Sell Stock.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
-  "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "About",
-    "permalink": "/docs/Problem Solving/about"
+    "permalink": "/ko/docs/Problem Solving/about"
   },
   "next": {
     "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome"
   }
 }

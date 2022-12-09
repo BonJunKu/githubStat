@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Array Partition",
+  "id": "Problem Solving/LeetCode/Array Partition",
+  "title": "561. Array Partition",
+  "description": "문제",
+  "source": "@site/i18n/ko/docusaurus-plugin-content-docs/current/Problem Solving/LeetCode/561. Array Partition.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Array Partition",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/Array Partition",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 561,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "238. Product of Array Except Self",
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self"
+  }
+}

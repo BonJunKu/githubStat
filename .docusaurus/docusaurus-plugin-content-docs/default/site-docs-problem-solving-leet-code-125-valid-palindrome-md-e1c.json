@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/125. Valid Palindrome.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/Valid Palindrome",
-  "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "121. Best Time to Buy and Sell Stock",
-    "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
   },
   "next": {
     "title": "238. Product of Array Except Self",
-    "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self"
   }
 }
