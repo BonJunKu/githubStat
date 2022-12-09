@@ -6,19 +6,23 @@ Given an integer array `nums`, return an array `answer` such that `answer[i]` is
 
 The product of any prefix or suffix of `nums` is guaranteed to fit in a 32-bit integer.
 
-You must write an algorithm that runs in `O(n)` time and without using the division operation.
+You must write an algorithm that runs in $O(n)$ time and without using the division operation.
 
-[You can read the full description here.](https://leetcode.com/problems/product-of-array-except-self/description/)
+:::info
+You can read the full description [**here**](https://leetcode.com/problems/product-of-array-except-self/description/).
+:::
 
-## Approach
+## Solution
 
-1. It is impossible to solve this problem with getting whole product and deviding by each element. You can't devide by zero.
-2. To get answer in O(N), you need to get multiplied value in O(1).
-3. So, getting accumulated product is necessary.
+### Approach 1
+
+1. To get answer in $O(n)$, you need to get product of the array except self in O(1). Because traversing an array works in $O(n)$.
+2. So, getting accumulated product is necessary.
+3. However, it is impossible to solve this problem with getting whole product and deviding by each element itself. You can't devide by zero.
 4. You can accumulate each elements from both sides, right and left.
 5. After handling exception, you can get answer easily.
 
-## Solution
+### Implementation
 
 ```python
 class Solution:
@@ -44,6 +48,6 @@ class Solution:
         return ans
 ```
 
-## Time Complexity
+### Complexity Analysis
 
 - O(N) (length of `nums`)

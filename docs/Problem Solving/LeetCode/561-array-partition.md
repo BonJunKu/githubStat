@@ -4,7 +4,9 @@
 
 Given an integer array `nums` of `2n` integers, group these integers into `n` pairs `(a1, b1), (a2, b2), ..., (an, bn)` such that the sum of `min(ai, bi)` for all `i` is **maximized**. Return _the maximized sum_.
 
+:::info
 You can read the full description [**here**](https://leetcode.com/problems/array-partition/description/).
+:::
 
 ## Solution
 
