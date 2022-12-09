@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e44'),
+    component: ComponentCreator('/docs', '28c'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -88,8 +88,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/array-partition',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/array-partition', '311'),
+        path: '/docs/Problem Solving/LeetCode/Array Partition',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Array Partition', 'cc5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -100,14 +100,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/product-of-array-except-self',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/product-of-array-except-self', 'd6c'),
+        path: '/docs/Problem Solving/LeetCode/Product of Array Except Self',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Product of Array Except Self', '1cc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/LeetCode/valid-palindrome',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/valid-palindrome', '4d1'),
+        path: '/docs/Problem Solving/LeetCode/Valid Palindrome',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Valid Palindrome', '179'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

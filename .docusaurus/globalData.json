@@ -16,8 +16,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problem Solving/LeetCode/array-partition",
-              "path": "/docs/Problem Solving/LeetCode/array-partition",
+              "id": "Problem Solving/LeetCode/Array Partition",
+              "path": "/docs/Problem Solving/LeetCode/Array Partition",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -26,13 +26,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problem Solving/LeetCode/product-of-array-except-self",
-              "path": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
+              "id": "Problem Solving/LeetCode/Product of Array Except Self",
+              "path": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problem Solving/LeetCode/valid-palindrome",
-              "path": "/docs/Problem Solving/LeetCode/valid-palindrome",
+              "id": "Problem Solving/LeetCode/Valid Palindrome",
+              "path": "/docs/Problem Solving/LeetCode/Valid Palindrome",
               "sidebar": "tutorialSidebar"
             }
           ],

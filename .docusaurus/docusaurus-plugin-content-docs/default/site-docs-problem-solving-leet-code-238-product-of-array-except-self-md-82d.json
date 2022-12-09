@@ -1,12 +1,12 @@
 {
-  "unversionedId": "Problem Solving/LeetCode/product-of-array-except-self",
-  "id": "Problem Solving/LeetCode/product-of-array-except-self",
+  "unversionedId": "Problem Solving/LeetCode/Product of Array Except Self",
+  "id": "Problem Solving/LeetCode/Product of Array Except Self",
   "title": "238. Product of Array Except Self",
   "description": "Description",
-  "source": "@site/docs/Problem Solving/LeetCode/238-product-of-array-except-self.md",
+  "source": "@site/docs/Problem Solving/LeetCode/238. Product of Array Except Self.md",
   "sourceDirName": "Problem Solving/LeetCode",
-  "slug": "/Problem Solving/LeetCode/product-of-array-except-self",
-  "permalink": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
+  "slug": "/Problem Solving/LeetCode/Product of Array Except Self",
+  "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   },
   "next": {
     "title": "561. Array Partition",
-    "permalink": "/docs/Problem Solving/LeetCode/array-partition"
+    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
   }
 }
