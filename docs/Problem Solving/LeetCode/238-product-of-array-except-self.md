@@ -8,13 +8,15 @@ The product of any prefix or suffix of `nums` is guaranteed to fit in a 32-bit i
 
 You must write an algorithm that runs in $O(n)$ time and without using the division operation.
 
+**Follow up**: Can you solve the problem in $O(1)$ extra space complexity? (The output array does not count as extra space for space complexity analysis.)
+
 :::info
 You can read the full description [**here**](https://leetcode.com/problems/product-of-array-except-self/description/).
 :::
 
-## Solution
+## Solution 1
 
-### Approach 1
+### Approach
 
 1. To get answer in $O(n)$, you need to get product of the array except self in O(1). Because traversing an array works in $O(n)$.
 2. So, getting accumulated product is necessary.
@@ -50,4 +52,77 @@ class Solution:
 
 ### Complexity Analysis
 
-- O(N) (length of `nums`)
+- n: length of `nums`
+- Time Complexity: $O(n)$
+- Space Complexity: $O(n)$
+
+## Solution 1+
+
+### Approach
+
+1. To get answer of **follow up** question, you must use only one array: return array.
+2. You can assign the product to a variable `accum`, instead of two arrays(`accum_left`, `accum_right`).
+
+### Implementation
+
+```python
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        ans = [1 for _ in range(n)]
+        accum = 1
+
+        for i in range(n):
+            ans[i] *= accum
+            accum *= nums[i]
+
+        accum = 1
+
+        for i in range(n-1, -1, -1):
+            ans[i] *= accum
+            accum *= nums[i]
+
+        return ans
+
+```
+
+### Complexity Analysis
+
+- n: length of `nums`
+- Time Complexity: $O(n)$
+- Space Complexity: $O(1)$ **`improved!`**
+
+---
+
+## Solutions from the Book
+
+:::info
+The original source of codes below is [**here**](https://github.com/onlybooks/algorithm-interview).
+:::
+
+## Solution 2
+
+### Approach
+
+1. Almost same with `Solution 1+`.
+
+### Implementation
+
+```python
+from typing import List
+
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        out = []
+        p = 1
+
+        for i in range(0, len(nums)):
+            out.append(p)
+            p = p * nums[i]
+        p = 1
+
+        for i in range(len(nums) - 1, 0 - 1, -1):
+            out[i] = out[i] * p
+            p = p * nums[i]
+        return out
+```
