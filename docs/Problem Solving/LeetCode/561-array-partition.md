@@ -8,7 +8,7 @@ Given an integer array `nums` of `2n` integers, group these integers into `n` pa
 You can read the full description [**here**](https://leetcode.com/problems/array-partition/description/).
 :::
 
-## Solution
+## Solution 1
 
 ### Approach
 
@@ -32,13 +32,17 @@ class Solution:
   - slicing : $O(1)$
 - Space Complexity : $O(n)$
 
+---
+
 ## Solutions from the Book
 
 :::info
 The original source of codes below is [**here**](https://github.com/onlybooks/algorithm-interview).
 :::
 
-### Approach 1 : Sort in ascending order
+## Solution 2
+
+### Approach: Sort in ascending order
 
 1. Append numbers in an array and **sort** them.
 2. Traverse the array and put the numbers in a temporary array.
@@ -63,7 +67,9 @@ class Solution:
         return
 ```
 
-### Approach 2 : Calculate with nth numbers (n : even)
+## Solution 3
+
+### Approach: Calculate with nth numbers (n : even)
 
 1. Almost same with `Approach 1`.
 2. Traverse the array with `enumerate`, and check whether index is even or not.
@@ -85,7 +91,9 @@ class Solution:
         return sum
 ```
 
-### Approach 3 : Phythonic solution with slicing
+## Solution 4
+
+### Approach: Phythonic solution with slicing
 
 1. With slicing, the implementation code becomes very simple.
 2. Also, it's the **fastest** way!
