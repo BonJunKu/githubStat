@@ -50,7 +50,7 @@
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
-    "message": "정보",
+    "message": "참고",
     "description": "The default label used for the Info admonition (:::info)"
   },
   "theme.admonition.caution": {
