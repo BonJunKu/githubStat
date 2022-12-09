@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+  "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+  "title": "121. Best Time to Buy and Sell Stock",
+  "description": "Description",
+  "source": "@site/docs/Problem Solving/LeetCode/121. Best Time to Buy and Sell Stock.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+  "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 121,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About",
+    "permalink": "/docs/Problem Solving/about"
+  },
+  "next": {
+    "title": "125. Valid Palindrome",
+    "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
+  }
+}

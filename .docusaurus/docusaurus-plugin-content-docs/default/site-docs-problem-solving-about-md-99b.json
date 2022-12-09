@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
+    "title": "121. Best Time to Buy and Sell Stock",
+    "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
   }
 }

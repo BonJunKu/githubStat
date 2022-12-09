@@ -35,8 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "125. Valid Palindrome",
-                "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
+                "title": "121. Best Time to Buy and Sell Stock",
+                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               }
             },
             {
@@ -57,6 +57,30 @@
               "previous": {
                 "title": "238. Product of Array Except Self",
                 "permalink": "/docs/Problem Solving/LeetCode/product-of-array-except-self"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "title": "121. Best Time to Buy and Sell Stock",
+              "description": "Description",
+              "source": "@site/docs/Problem Solving/LeetCode/121. Best Time to Buy and Sell Stock.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 121,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "About",
+                "permalink": "/docs/Problem Solving/about"
+              },
+              "next": {
+                "title": "125. Valid Palindrome",
+                "permalink": "/docs/Problem Solving/LeetCode/valid-palindrome"
               }
             },
             {
@@ -99,8 +123,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "About",
-                "permalink": "/docs/Problem Solving/about"
+                "title": "121. Best Time to Buy and Sell Stock",
+                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               },
               "next": {
                 "title": "238. Product of Array Except Self",
@@ -127,6 +151,10 @@
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+                      },
                       {
                         "type": "doc",
                         "id": "Problem Solving/LeetCode/valid-palindrome"

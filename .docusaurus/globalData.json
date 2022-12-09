@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "path": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/product-of-array-except-self",
               "path": "/docs/Problem Solving/LeetCode/product-of-array-except-self",
               "sidebar": "tutorialSidebar"

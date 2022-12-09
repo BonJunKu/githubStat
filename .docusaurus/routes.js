@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bf3'),
+    component: ComponentCreator('/docs', 'e44'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -90,6 +90,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/array-partition',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/array-partition', '311'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '627'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

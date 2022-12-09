@@ -29,6 +29,12 @@
             "items": [
               {
                 "type": "link",
+                "label": "121. Best Time to Buy and Sell Stock",
+                "href": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+                "docId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+              },
+              {
+                "type": "link",
                 "label": "125. Valid Palindrome",
                 "href": "/docs/Problem Solving/LeetCode/valid-palindrome",
                 "docId": "Problem Solving/LeetCode/valid-palindrome"
@@ -61,6 +67,12 @@
     "Problem Solving/LeetCode/array-partition": {
       "id": "Problem Solving/LeetCode/array-partition",
       "title": "561. Array Partition",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Best Time to Buy and Sell Stock": {
+      "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+      "title": "121. Best Time to Buy and Sell Stock",
       "description": "Description",
       "sidebar": "tutorialSidebar"
     },
