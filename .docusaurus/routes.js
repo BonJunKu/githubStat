@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/ko/docs',
-    component: ComponentCreator('/ko/docs', '6d9'),
+    component: ComponentCreator('/ko/docs', 'ba6'),
     routes: [
       {
         path: '/ko/docs/Problem Solving/about',
@@ -101,7 +101,7 @@ export default [
       },
       {
         path: '/ko/docs/Problem Solving/LeetCode/Product of Array Except Self',
-        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Product of Array Except Self', 'b63'),
+        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Product of Array Except Self', 'ef4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
