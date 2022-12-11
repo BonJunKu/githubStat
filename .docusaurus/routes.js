@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/ko/docs',
-    component: ComponentCreator('/ko/docs', 'ba6'),
+    component: ComponentCreator('/ko/docs', '000'),
     routes: [
       {
         path: '/ko/docs/Problem Solving/about',
@@ -95,7 +95,7 @@ export default [
       },
       {
         path: '/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
-        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '10a'),
+        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '0fe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
