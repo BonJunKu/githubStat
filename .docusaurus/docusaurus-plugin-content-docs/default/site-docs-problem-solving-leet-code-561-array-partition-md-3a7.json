@@ -16,5 +16,9 @@
   "previous": {
     "title": "344. Reverse String",
     "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+  },
+  "next": {
+    "title": "937. Reorder Data in Log Files",
+    "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
   }
 }

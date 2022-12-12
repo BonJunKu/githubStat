@@ -56,6 +56,12 @@
                 "label": "561. Array Partition",
                 "href": "/docs/Problem Solving/LeetCode/Array Partition",
                 "docId": "Problem Solving/LeetCode/Array Partition"
+              },
+              {
+                "type": "link",
+                "label": "937. Reorder Data in Log Files",
+                "href": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
+                "docId": "Problem Solving/LeetCode/Reorder Data in Log Files"
               }
             ]
           }
@@ -85,6 +91,12 @@
     "Problem Solving/LeetCode/Product of Array Except Self": {
       "id": "Problem Solving/LeetCode/Product of Array Except Self",
       "title": "238. Product of Array Except Self",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Reorder Data in Log Files": {
+      "id": "Problem Solving/LeetCode/Reorder Data in Log Files",
+      "title": "937. Reorder Data in Log Files",
       "description": "Description",
       "sidebar": "tutorialSidebar"
     },

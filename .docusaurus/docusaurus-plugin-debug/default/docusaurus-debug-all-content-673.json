@@ -57,6 +57,10 @@
               "previous": {
                 "title": "344. Reverse String",
                 "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+              },
+              "next": {
+                "title": "937. Reorder Data in Log Files",
+                "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
               }
             },
             {
@@ -105,6 +109,26 @@
               "next": {
                 "title": "344. Reverse String",
                 "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/LeetCode/Reorder Data in Log Files",
+              "id": "Problem Solving/LeetCode/Reorder Data in Log Files",
+              "title": "937. Reorder Data in Log Files",
+              "description": "Description",
+              "source": "@site/docs/Problem Solving/LeetCode/937. Reorder Data in Log Files.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/Reorder Data in Log Files",
+              "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 937,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "561. Array Partition",
+                "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
               }
             },
             {
@@ -194,6 +218,10 @@
                       {
                         "type": "doc",
                         "id": "Problem Solving/LeetCode/Array Partition"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/Reorder Data in Log Files"
                       }
                     ]
                   }

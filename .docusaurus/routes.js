@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'fbf'),
+    component: ComponentCreator('/docs', '5a5'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -102,6 +102,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Product of Array Except Self',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Product of Array Except Self', '1cc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Reorder Data in Log Files',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Reorder Data in Log Files', '3d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
