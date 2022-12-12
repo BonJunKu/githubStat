@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e2d'),
+    component: ComponentCreator('/docs', '0e0'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -88,14 +88,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/BOJ/2309 일곱난쟁이',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/2309 일곱난쟁이', 'dbc'),
+        path: '/docs/Problem Solving/BOJ/알파벳 갯수',
+        component: ComponentCreator('/docs/Problem Solving/BOJ/알파벳 갯수', '243'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Problem Solving/BOJ/알파벳 갯수',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/알파벳 갯수', '243'),
+        path: '/docs/Problem Solving/BOJ/일곱 난쟁이',
+        component: ComponentCreator('/docs/Problem Solving/BOJ/일곱 난쟁이', 'd89'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -113,7 +113,7 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-e2d": {
+  "/docs-0e0": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsd-05-7bd"
@@ -124,13 +124,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-about-99-b-4bf"
   },
-  "/docs/Problem Solving/BOJ/2309 일곱난쟁이-dbc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-problem-solving-boj-2309-일곱난쟁이fb-8-d22"
-  },
   "/docs/Problem Solving/BOJ/알파벳 갯수-243": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-boj-알파벳-갯수d-33-56c"
+  },
+  "/docs/Problem Solving/BOJ/일곱 난쟁이-d89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-problem-solving-boj-일곱-난쟁이-0-d-5-111"
   },
   "/docs/Problem Solving/LeetCode/Array Partition-cc5": {
     "__comp": "__comp---theme-doc-item-178-a40",
