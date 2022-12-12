@@ -1,7 +1,7 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "다음",
+  "label": "Next",
   "banner": null,
   "badge": false,
   "noIndex": false,
@@ -11,44 +11,50 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "문제 풀이",
+        "label": "Problem Solving",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "About",
-            "href": "/ko/docs/Problem Solving/about",
+            "href": "/docs/Problem Solving/about",
             "docId": "Problem Solving/about"
           },
           {
             "type": "category",
-            "label": "리트코드",
+            "label": "LeetCode",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "121. Best Time to Buy and Sell Stock",
-                "href": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+                "href": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
                 "docId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               },
               {
                 "type": "link",
                 "label": "125. Valid Palindrome",
-                "href": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome",
+                "href": "/docs/Problem Solving/LeetCode/Valid Palindrome",
                 "docId": "Problem Solving/LeetCode/Valid Palindrome"
               },
               {
                 "type": "link",
                 "label": "238. Product of Array Except Self",
-                "href": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self",
+                "href": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
                 "docId": "Problem Solving/LeetCode/Product of Array Except Self"
               },
               {
                 "type": "link",
+                "label": "344. Reverse String",
+                "href": "/docs/Problem Solving/LeetCode/Reverse String",
+                "docId": "Problem Solving/LeetCode/Reverse String"
+              },
+              {
+                "type": "link",
                 "label": "561. Array Partition",
-                "href": "/ko/docs/Problem Solving/LeetCode/Array Partition",
+                "href": "/docs/Problem Solving/LeetCode/Array Partition",
                 "docId": "Problem Solving/LeetCode/Array Partition"
               }
             ]
@@ -67,19 +73,25 @@
     "Problem Solving/LeetCode/Array Partition": {
       "id": "Problem Solving/LeetCode/Array Partition",
       "title": "561. Array Partition",
-      "description": "문제",
+      "description": "Description",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Best Time to Buy and Sell Stock": {
       "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
       "title": "121. Best Time to Buy and Sell Stock",
-      "description": "문제",
+      "description": "Description",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Product of Array Except Self": {
       "id": "Problem Solving/LeetCode/Product of Array Except Self",
       "title": "238. Product of Array Except Self",
-      "description": "문제",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Reverse String": {
+      "id": "Problem Solving/LeetCode/Reverse String",
+      "title": "344. Reverse String",
+      "description": "Description",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Valid Palindrome": {

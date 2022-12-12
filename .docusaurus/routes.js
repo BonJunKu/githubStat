@@ -3,119 +3,125 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/ko/__docusaurus/debug',
-    component: ComponentCreator('/ko/__docusaurus/debug', '26a'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '2c1'),
     exact: true
   },
   {
-    path: '/ko/__docusaurus/debug/config',
-    component: ComponentCreator('/ko/__docusaurus/debug/config', 'a6b'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', 'eb6'),
     exact: true
   },
   {
-    path: '/ko/__docusaurus/debug/content',
-    component: ComponentCreator('/ko/__docusaurus/debug/content', 'b2b'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'ba3'),
     exact: true
   },
   {
-    path: '/ko/__docusaurus/debug/globalData',
-    component: ComponentCreator('/ko/__docusaurus/debug/globalData', '7bb'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '016'),
     exact: true
   },
   {
-    path: '/ko/__docusaurus/debug/metadata',
-    component: ComponentCreator('/ko/__docusaurus/debug/metadata', 'd26'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '741'),
     exact: true
   },
   {
-    path: '/ko/__docusaurus/debug/registry',
-    component: ComponentCreator('/ko/__docusaurus/debug/registry', 'b92'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '03c'),
     exact: true
   },
   {
-    path: '/ko/__docusaurus/debug/routes',
-    component: ComponentCreator('/ko/__docusaurus/debug/routes', 'd85'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '5b5'),
     exact: true
   },
   {
-    path: '/ko/blog',
-    component: ComponentCreator('/ko/blog', '252'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '4a9'),
     exact: true
   },
   {
-    path: '/ko/blog/2022 회고',
-    component: ComponentCreator('/ko/blog/2022 회고', 'd26'),
+    path: '/blog/2022 회고',
+    component: ComponentCreator('/blog/2022 회고', '5ec'),
     exact: true
   },
   {
-    path: '/ko/blog/archive',
-    component: ComponentCreator('/ko/blog/archive', '581'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', 'a2e'),
     exact: true
   },
   {
-    path: '/ko/blog/tags',
-    component: ComponentCreator('/ko/blog/tags', '4e8'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '055'),
     exact: true
   },
   {
-    path: '/ko/blog/tags/diary',
-    component: ComponentCreator('/ko/blog/tags/diary', 'cff'),
+    path: '/blog/tags/diary',
+    component: ComponentCreator('/blog/tags/diary', '35e'),
     exact: true
   },
   {
-    path: '/ko/markdown-page',
-    component: ComponentCreator('/ko/markdown-page', '331'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '961'),
     exact: true
   },
   {
-    path: '/ko/my-markdown-page',
-    component: ComponentCreator('/ko/my-markdown-page', '449'),
+    path: '/my-markdown-page',
+    component: ComponentCreator('/my-markdown-page', '0b3'),
     exact: true
   },
   {
-    path: '/ko/my-react-page',
-    component: ComponentCreator('/ko/my-react-page', '540'),
+    path: '/my-react-page',
+    component: ComponentCreator('/my-react-page', '90f'),
     exact: true
   },
   {
-    path: '/ko/docs',
-    component: ComponentCreator('/ko/docs', '000'),
+    path: '/docs',
+    component: ComponentCreator('/docs', 'fbf'),
     routes: [
       {
-        path: '/ko/docs/Problem Solving/about',
-        component: ComponentCreator('/ko/docs/Problem Solving/about', '134'),
+        path: '/docs/Problem Solving/about',
+        component: ComponentCreator('/docs/Problem Solving/about', 'b4d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/ko/docs/Problem Solving/LeetCode/Array Partition',
-        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Array Partition', '188'),
+        path: '/docs/Problem Solving/LeetCode/Array Partition',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Array Partition', 'cc5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
-        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '0fe'),
+        path: '/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '627'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/ko/docs/Problem Solving/LeetCode/Product of Array Except Self',
-        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Product of Array Except Self', 'ef4'),
+        path: '/docs/Problem Solving/LeetCode/Product of Array Except Self',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Product of Array Except Self', '1cc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/ko/docs/Problem Solving/LeetCode/Valid Palindrome',
-        component: ComponentCreator('/ko/docs/Problem Solving/LeetCode/Valid Palindrome', '3fb'),
+        path: '/docs/Problem Solving/LeetCode/Reverse String',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Reverse String', '11a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Valid Palindrome',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Valid Palindrome', '179'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/ko/',
-    component: ComponentCreator('/ko/', '613'),
+    path: '/',
+    component: ComponentCreator('/', 'f9c'),
     exact: true
   },
   {
