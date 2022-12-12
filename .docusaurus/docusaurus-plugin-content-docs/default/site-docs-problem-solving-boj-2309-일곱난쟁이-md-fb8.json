@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "About",
-    "permalink": "/docs/Problem Solving/about"
+    "title": "10808. 알파벳 개수",
+    "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
   },
   "next": {
     "title": "121. Best Time to Buy and Sell Stock",
