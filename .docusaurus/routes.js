@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5a5'),
+    component: ComponentCreator('/docs', 'efa'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -96,6 +96,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '627'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Most Common Word',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Most Common Word', '524'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

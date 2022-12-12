@@ -59,6 +59,12 @@
               },
               {
                 "type": "link",
+                "label": "819. Most Common Word",
+                "href": "/docs/Problem Solving/LeetCode/Most Common Word",
+                "docId": "Problem Solving/LeetCode/Most Common Word"
+              },
+              {
+                "type": "link",
                 "label": "937. Reorder Data in Log Files",
                 "href": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
                 "docId": "Problem Solving/LeetCode/Reorder Data in Log Files"
@@ -85,6 +91,12 @@
     "Problem Solving/LeetCode/Best Time to Buy and Sell Stock": {
       "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
       "title": "121. Best Time to Buy and Sell Stock",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Most Common Word": {
+      "id": "Problem Solving/LeetCode/Most Common Word",
+      "title": "819. Most Common Word",
       "description": "Description",
       "sidebar": "tutorialSidebar"
     },

@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Most Common Word",
+              "path": "/docs/Problem Solving/LeetCode/Most Common Word",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Product of Array Except Self",
               "path": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
               "sidebar": "tutorialSidebar"
