@@ -1,63 +1,63 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/ko/docs",
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "다음",
           "isLast": true,
-          "path": "/docs",
+          "path": "/ko/docs",
           "mainDocId": "Problem Solving/about",
           "docs": [
             {
               "id": "Problem Solving/about",
-              "path": "/docs/Problem Solving/about",
+              "path": "/ko/docs/Problem Solving/about",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/BOJ/알파벳 갯수",
-              "path": "/docs/Problem Solving/BOJ/알파벳 갯수",
+              "path": "/ko/docs/Problem Solving/BOJ/알파벳 갯수",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/BOJ/일곱 난쟁이",
-              "path": "/docs/Problem Solving/BOJ/일곱 난쟁이",
+              "path": "/ko/docs/Problem Solving/BOJ/일곱 난쟁이",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Array Partition",
-              "path": "/docs/Problem Solving/LeetCode/Array Partition",
+              "path": "/ko/docs/Problem Solving/LeetCode/Array Partition",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
-              "path": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "path": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Most Common Word",
-              "path": "/docs/Problem Solving/LeetCode/Most Common Word",
+              "path": "/ko/docs/Problem Solving/LeetCode/Most Common Word",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Product of Array Except Self",
-              "path": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
+              "path": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Reorder Data in Log Files",
-              "path": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
+              "path": "/ko/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Reverse String",
-              "path": "/docs/Problem Solving/LeetCode/Reverse String",
+              "path": "/ko/docs/Problem Solving/LeetCode/Reverse String",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problem Solving/LeetCode/Valid Palindrome",
-              "path": "/docs/Problem Solving/LeetCode/Valid Palindrome",
+              "path": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -65,7 +65,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Problem Solving/about",
+                "path": "/ko/docs/Problem Solving/about",
                 "label": "Problem Solving/about"
               }
             }

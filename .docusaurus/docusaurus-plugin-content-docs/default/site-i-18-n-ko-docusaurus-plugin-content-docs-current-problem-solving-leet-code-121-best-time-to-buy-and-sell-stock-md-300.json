@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "About",
-    "permalink": "/ko/docs/Problem Solving/about"
+    "title": "10808. 알파벳 개수",
+    "permalink": "/ko/docs/Problem Solving/BOJ/알파벳 갯수"
   },
   "next": {
     "title": "125. Valid Palindrome",

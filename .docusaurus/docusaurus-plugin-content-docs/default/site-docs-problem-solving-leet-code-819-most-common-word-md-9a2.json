@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/819. Most Common Word.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/Most Common Word",
-  "permalink": "/docs/Problem Solving/LeetCode/Most Common Word",
+  "permalink": "/ko/docs/Problem Solving/LeetCode/Most Common Word",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "561. Array Partition",
-    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Array Partition"
   },
   "next": {
     "title": "937. Reorder Data in Log Files",
-    "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
   }
 }

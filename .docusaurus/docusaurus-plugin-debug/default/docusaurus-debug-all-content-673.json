@@ -4,18 +4,18 @@
       "loadedVersions": [
         {
           "versionName": "current",
-          "label": "Next",
+          "label": "다음",
           "banner": null,
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/ko/docs",
+          "tagsPath": "/ko/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/bonjun/github/BonJunKu/sidebars.js",
           "contentPath": "/Users/bonjun/github/BonJunKu/docs",
-          "contentPathLocalized": "/Users/bonjun/github/BonJunKu/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/Users/bonjun/github/BonJunKu/i18n/ko/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "Problem Solving/about",
@@ -25,7 +25,7 @@
               "source": "@site/docs/Problem Solving/about.md",
               "sourceDirName": "Problem Solving",
               "slug": "/Problem Solving/about",
-              "permalink": "/docs/Problem Solving/about",
+              "permalink": "/ko/docs/Problem Solving/about",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -36,7 +36,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "2309. 일곱 난쟁이",
-                "permalink": "/docs/Problem Solving/BOJ/일곱 난쟁이"
+                "permalink": "/ko/docs/Problem Solving/BOJ/일곱 난쟁이"
               }
             },
             {
@@ -47,7 +47,7 @@
               "source": "@site/docs/Problem Solving/BOJ/10808. 알파벳 갯수.md",
               "sourceDirName": "Problem Solving/BOJ",
               "slug": "/Problem Solving/BOJ/알파벳 갯수",
-              "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수",
+              "permalink": "/ko/docs/Problem Solving/BOJ/알파벳 갯수",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -56,11 +56,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2309. 일곱 난쟁이",
-                "permalink": "/docs/Problem Solving/BOJ/일곱 난쟁이"
+                "permalink": "/ko/docs/Problem Solving/BOJ/일곱 난쟁이"
               },
               "next": {
                 "title": "121. Best Time to Buy and Sell Stock",
-                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               }
             },
             {
@@ -71,7 +71,7 @@
               "source": "@site/docs/Problem Solving/BOJ/2309. 일곱 난쟁이.md",
               "sourceDirName": "Problem Solving/BOJ",
               "slug": "/Problem Solving/BOJ/일곱 난쟁이",
-              "permalink": "/docs/Problem Solving/BOJ/일곱 난쟁이",
+              "permalink": "/ko/docs/Problem Solving/BOJ/일곱 난쟁이",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -80,22 +80,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "About",
-                "permalink": "/docs/Problem Solving/about"
+                "permalink": "/ko/docs/Problem Solving/about"
               },
               "next": {
                 "title": "10808. 알파벳 개수",
-                "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
+                "permalink": "/ko/docs/Problem Solving/BOJ/알파벳 갯수"
               }
             },
             {
               "unversionedId": "Problem Solving/LeetCode/Array Partition",
               "id": "Problem Solving/LeetCode/Array Partition",
               "title": "561. Array Partition",
-              "description": "Description",
-              "source": "@site/docs/Problem Solving/LeetCode/561. Array Partition.md",
+              "description": "문제",
+              "source": "@site/i18n/ko/docusaurus-plugin-content-docs/current/Problem Solving/LeetCode/561. Array Partition.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Array Partition",
-              "permalink": "/docs/Problem Solving/LeetCode/Array Partition",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Array Partition",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -104,22 +104,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "344. Reverse String",
-                "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Reverse String"
               },
               "next": {
                 "title": "819. Most Common Word",
-                "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Most Common Word"
               }
             },
             {
               "unversionedId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "title": "121. Best Time to Buy and Sell Stock",
-              "description": "Description",
-              "source": "@site/docs/Problem Solving/LeetCode/121. Best Time to Buy and Sell Stock.md",
+              "description": "문제",
+              "source": "@site/i18n/ko/docusaurus-plugin-content-docs/current/Problem Solving/LeetCode/121. Best Time to Buy and Sell Stock.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
-              "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -128,11 +128,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "10808. 알파벳 개수",
-                "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
+                "permalink": "/ko/docs/Problem Solving/BOJ/알파벳 갯수"
               },
               "next": {
                 "title": "125. Valid Palindrome",
-                "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome"
               }
             },
             {
@@ -143,7 +143,7 @@
               "source": "@site/docs/Problem Solving/LeetCode/819. Most Common Word.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Most Common Word",
-              "permalink": "/docs/Problem Solving/LeetCode/Most Common Word",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Most Common Word",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -152,22 +152,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "561. Array Partition",
-                "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Array Partition"
               },
               "next": {
                 "title": "937. Reorder Data in Log Files",
-                "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
               }
             },
             {
               "unversionedId": "Problem Solving/LeetCode/Product of Array Except Self",
               "id": "Problem Solving/LeetCode/Product of Array Except Self",
               "title": "238. Product of Array Except Self",
-              "description": "Description",
-              "source": "@site/docs/Problem Solving/LeetCode/238. Product of Array Except Self.md",
+              "description": "문제",
+              "source": "@site/i18n/ko/docusaurus-plugin-content-docs/current/Problem Solving/LeetCode/238. Product of Array Except Self.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Product of Array Except Self",
-              "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -176,11 +176,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "125. Valid Palindrome",
-                "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome"
               },
               "next": {
                 "title": "344. Reverse String",
-                "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Reverse String"
               }
             },
             {
@@ -191,7 +191,7 @@
               "source": "@site/docs/Problem Solving/LeetCode/937. Reorder Data in Log Files.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Reorder Data in Log Files",
-              "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -200,7 +200,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "819. Most Common Word",
-                "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Most Common Word"
               }
             },
             {
@@ -211,7 +211,7 @@
               "source": "@site/docs/Problem Solving/LeetCode/344. Reverse String.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Reverse String",
-              "permalink": "/docs/Problem Solving/LeetCode/Reverse String",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Reverse String",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -220,11 +220,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "238. Product of Array Except Self",
-                "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self"
               },
               "next": {
                 "title": "561. Array Partition",
-                "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Array Partition"
               }
             },
             {
@@ -235,7 +235,7 @@
               "source": "@site/docs/Problem Solving/LeetCode/125. Valid Palindrome.md",
               "sourceDirName": "Problem Solving/LeetCode",
               "slug": "/Problem Solving/LeetCode/Valid Palindrome",
-              "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome",
+              "permalink": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -244,11 +244,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "121. Best Time to Buy and Sell Stock",
-                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               },
               "next": {
                 "title": "238. Product of Array Except Self",
-                "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+                "permalink": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self"
               }
             }
           ],
@@ -257,7 +257,7 @@
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "Problem Solving",
+                "label": "문제 풀이",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -283,7 +283,7 @@
                   },
                   {
                     "type": "category",
-                    "label": "LeetCode",
+                    "label": "리트코드",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -327,21 +327,21 @@
   },
   "docusaurus-plugin-content-blog": {
     "default": {
-      "blogSidebarTitle": "Recent posts",
+      "blogSidebarTitle": "최근 글",
       "blogPosts": [
         {
           "id": "2022 회고",
           "metadata": {
-            "permalink": "/blog/2022 회고",
+            "permalink": "/ko/blog/2022 회고",
             "source": "@site/blog/2022-12-22-Adieu-2022/index.md",
             "title": "2022 회고",
             "description": "Talk is cheap. Let's write 라고 자신만만하게 대문 글을 걸어놨지만, 글을 쓰는 것은 여전히 쉽지 않은 일이다. 정확히는 글을 쓰는 것을 시작하는 것이 어렵다. 가장 접근하기 쉬운 주제로 첫 글을 써본다. 글을 적고 있는 지금은 2022년 12월 1일이고, 올해에는 참 많은 일이 있었다.",
             "date": "2022-12-22T00:00:00.000Z",
-            "formattedDate": "December 22, 2022",
+            "formattedDate": "2022년 12월 22일",
             "tags": [
               {
                 "label": "diary",
-                "permalink": "/blog/tags/diary"
+                "permalink": "/ko/blog/tags/diary"
               }
             ],
             "readingTime": 19.195,
@@ -373,30 +373,30 @@
             "2022 회고"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/ko/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
             "totalCount": 1,
-            "blogDescription": "Blog",
-            "blogTitle": "Blog"
+            "blogDescription": "블로그",
+            "blogTitle": "블로그"
           }
         }
       ],
       "blogTags": {
-        "/blog/tags/diary": {
+        "/ko/blog/tags/diary": {
           "label": "diary",
           "items": [
             "2022 회고"
           ],
-          "permalink": "/blog/tags/diary",
+          "permalink": "/ko/blog/tags/diary",
           "pages": [
             {
               "items": [
                 "2022 회고"
               ],
               "metadata": {
-                "permalink": "/blog/tags/diary",
+                "permalink": "/ko/blog/tags/diary",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -408,19 +408,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/ko/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/ko/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/ko/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
@@ -430,7 +430,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/my-markdown-page",
+        "permalink": "/ko/my-markdown-page",
         "source": "@site/src/pages/my-markdown-page.md",
         "title": "My Markdown page",
         "description": "This is a Markdown page",
@@ -438,7 +438,7 @@
       },
       {
         "type": "jsx",
-        "permalink": "/my-react-page",
+        "permalink": "/ko/my-react-page",
         "source": "@site/src/pages/my-react-page.js"
       }
     ]

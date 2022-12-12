@@ -1,7 +1,7 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "Next",
+  "label": "다음",
   "banner": null,
   "badge": false,
   "noIndex": false,
@@ -11,14 +11,14 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "Problem Solving",
+        "label": "문제 풀이",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "About",
-            "href": "/docs/Problem Solving/about",
+            "href": "/ko/docs/Problem Solving/about",
             "docId": "Problem Solving/about"
           },
           {
@@ -30,63 +30,63 @@
               {
                 "type": "link",
                 "label": "2309. 일곱 난쟁이",
-                "href": "/docs/Problem Solving/BOJ/일곱 난쟁이",
+                "href": "/ko/docs/Problem Solving/BOJ/일곱 난쟁이",
                 "docId": "Problem Solving/BOJ/일곱 난쟁이"
               },
               {
                 "type": "link",
                 "label": "10808. 알파벳 개수",
-                "href": "/docs/Problem Solving/BOJ/알파벳 갯수",
+                "href": "/ko/docs/Problem Solving/BOJ/알파벳 갯수",
                 "docId": "Problem Solving/BOJ/알파벳 갯수"
               }
             ]
           },
           {
             "type": "category",
-            "label": "LeetCode",
+            "label": "리트코드",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "121. Best Time to Buy and Sell Stock",
-                "href": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
+                "href": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
                 "docId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               },
               {
                 "type": "link",
                 "label": "125. Valid Palindrome",
-                "href": "/docs/Problem Solving/LeetCode/Valid Palindrome",
+                "href": "/ko/docs/Problem Solving/LeetCode/Valid Palindrome",
                 "docId": "Problem Solving/LeetCode/Valid Palindrome"
               },
               {
                 "type": "link",
                 "label": "238. Product of Array Except Self",
-                "href": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
+                "href": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self",
                 "docId": "Problem Solving/LeetCode/Product of Array Except Self"
               },
               {
                 "type": "link",
                 "label": "344. Reverse String",
-                "href": "/docs/Problem Solving/LeetCode/Reverse String",
+                "href": "/ko/docs/Problem Solving/LeetCode/Reverse String",
                 "docId": "Problem Solving/LeetCode/Reverse String"
               },
               {
                 "type": "link",
                 "label": "561. Array Partition",
-                "href": "/docs/Problem Solving/LeetCode/Array Partition",
+                "href": "/ko/docs/Problem Solving/LeetCode/Array Partition",
                 "docId": "Problem Solving/LeetCode/Array Partition"
               },
               {
                 "type": "link",
                 "label": "819. Most Common Word",
-                "href": "/docs/Problem Solving/LeetCode/Most Common Word",
+                "href": "/ko/docs/Problem Solving/LeetCode/Most Common Word",
                 "docId": "Problem Solving/LeetCode/Most Common Word"
               },
               {
                 "type": "link",
                 "label": "937. Reorder Data in Log Files",
-                "href": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
+                "href": "/ko/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
                 "docId": "Problem Solving/LeetCode/Reorder Data in Log Files"
               }
             ]
@@ -117,13 +117,13 @@
     "Problem Solving/LeetCode/Array Partition": {
       "id": "Problem Solving/LeetCode/Array Partition",
       "title": "561. Array Partition",
-      "description": "Description",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Best Time to Buy and Sell Stock": {
       "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
       "title": "121. Best Time to Buy and Sell Stock",
-      "description": "Description",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Most Common Word": {
@@ -135,7 +135,7 @@
     "Problem Solving/LeetCode/Product of Array Except Self": {
       "id": "Problem Solving/LeetCode/Product of Array Except Self",
       "title": "238. Product of Array Except Self",
-      "description": "Description",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Reorder Data in Log Files": {
