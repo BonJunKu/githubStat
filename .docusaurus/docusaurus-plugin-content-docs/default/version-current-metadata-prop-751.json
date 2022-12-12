@@ -23,6 +23,20 @@
           },
           {
             "type": "category",
+            "label": "BOJ",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "2309. 일곱 난쟁이",
+                "href": "/docs/Problem Solving/BOJ/2309 일곱난쟁이",
+                "docId": "Problem Solving/BOJ/2309 일곱난쟁이"
+              }
+            ]
+          },
+          {
+            "type": "category",
             "label": "LeetCode",
             "collapsible": true,
             "collapsed": true,
@@ -80,6 +94,12 @@
       "id": "Problem Solving/about",
       "title": "About",
       "description": "- LeetCode : BonJunKu",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/BOJ/2309 일곱난쟁이": {
+      "id": "Problem Solving/BOJ/2309 일곱난쟁이",
+      "title": "2309. 일곱 난쟁이",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Array Partition": {

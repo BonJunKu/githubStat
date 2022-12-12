@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/BOJ/2309 일곱난쟁이",
+              "path": "/docs/Problem Solving/BOJ/2309 일곱난쟁이",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Array Partition",
               "path": "/docs/Problem Solving/LeetCode/Array Partition",
               "sidebar": "tutorialSidebar"

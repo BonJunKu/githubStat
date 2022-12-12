@@ -35,6 +35,29 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
+                "title": "2309. 일곱 난쟁이",
+                "permalink": "/docs/Problem Solving/BOJ/2309 일곱난쟁이"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/BOJ/2309 일곱난쟁이",
+              "id": "Problem Solving/BOJ/2309 일곱난쟁이",
+              "title": "2309. 일곱 난쟁이",
+              "description": "문제",
+              "source": "@site/docs/Problem Solving/BOJ/2309 일곱난쟁이.md",
+              "sourceDirName": "Problem Solving/BOJ",
+              "slug": "/Problem Solving/BOJ/2309 일곱난쟁이",
+              "permalink": "/docs/Problem Solving/BOJ/2309 일곱난쟁이",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "About",
+                "permalink": "/docs/Problem Solving/about"
+              },
+              "next": {
                 "title": "121. Best Time to Buy and Sell Stock",
                 "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               }
@@ -79,8 +102,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "About",
-                "permalink": "/docs/Problem Solving/about"
+                "title": "2309. 일곱 난쟁이",
+                "permalink": "/docs/Problem Solving/BOJ/2309 일곱난쟁이"
               },
               "next": {
                 "title": "125. Valid Palindrome",
@@ -216,6 +239,18 @@
                   {
                     "type": "doc",
                     "id": "Problem Solving/about"
+                  },
+                  {
+                    "type": "category",
+                    "label": "BOJ",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/BOJ/2309 일곱난쟁이"
+                      }
+                    ]
                   },
                   {
                     "type": "category",

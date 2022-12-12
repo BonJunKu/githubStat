@@ -79,11 +79,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'efa'),
+    component: ComponentCreator('/docs', '142'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
         component: ComponentCreator('/docs/Problem Solving/about', 'b4d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/BOJ/2309 일곱난쟁이',
+        component: ComponentCreator('/docs/Problem Solving/BOJ/2309 일곱난쟁이', 'dbc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
