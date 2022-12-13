@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/937. Reorder Data in Log Files.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/Reorder Data in Log Files",
-  "permalink": "/ko/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
+  "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "819. Most Common Word",
-    "permalink": "/ko/docs/Problem Solving/LeetCode/Most Common Word"
+    "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
   }
 }

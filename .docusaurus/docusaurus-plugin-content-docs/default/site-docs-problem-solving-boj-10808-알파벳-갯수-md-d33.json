@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/BOJ/10808. 알파벳 갯수.md",
   "sourceDirName": "Problem Solving/BOJ",
   "slug": "/Problem Solving/BOJ/알파벳 갯수",
-  "permalink": "/ko/docs/Problem Solving/BOJ/알파벳 갯수",
+  "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "2309. 일곱 난쟁이",
-    "permalink": "/ko/docs/Problem Solving/BOJ/일곱 난쟁이"
+    "title": "2979. 트럭 주차",
+    "permalink": "/docs/Problem Solving/BOJ/트럭 주차"
   },
   "next": {
     "title": "121. Best Time to Buy and Sell Stock",
-    "permalink": "/ko/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+    "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
   }
 }

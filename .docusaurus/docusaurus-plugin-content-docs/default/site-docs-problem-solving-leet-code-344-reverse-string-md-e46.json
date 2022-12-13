@@ -6,7 +6,7 @@
   "source": "@site/docs/Problem Solving/LeetCode/344. Reverse String.md",
   "sourceDirName": "Problem Solving/LeetCode",
   "slug": "/Problem Solving/LeetCode/Reverse String",
-  "permalink": "/ko/docs/Problem Solving/LeetCode/Reverse String",
+  "permalink": "/docs/Problem Solving/LeetCode/Reverse String",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "238. Product of Array Except Self",
-    "permalink": "/ko/docs/Problem Solving/LeetCode/Product of Array Except Self"
+    "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
   },
   "next": {
     "title": "561. Array Partition",
-    "permalink": "/ko/docs/Problem Solving/LeetCode/Array Partition"
+    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
   }
 }

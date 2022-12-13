@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/BOJ/트럭 주차",
+  "id": "Problem Solving/BOJ/트럭 주차",
+  "title": "2979. 트럭 주차",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/BOJ/2979. 트럭 주차.md",
+  "sourceDirName": "Problem Solving/BOJ",
+  "slug": "/Problem Solving/BOJ/트럭 주차",
+  "permalink": "/docs/Problem Solving/BOJ/트럭 주차",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2979,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2309. 일곱 난쟁이",
+    "permalink": "/docs/Problem Solving/BOJ/일곱 난쟁이"
+  },
+  "next": {
+    "title": "10808. 알파벳 개수",
+    "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
+  }
+}
