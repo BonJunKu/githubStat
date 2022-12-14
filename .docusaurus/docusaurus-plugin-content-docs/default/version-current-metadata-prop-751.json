@@ -29,6 +29,12 @@
             "items": [
               {
                 "type": "link",
+                "label": "1159. 농구 경기",
+                "href": "/docs/Problem Solving/BOJ/농구 경기",
+                "docId": "Problem Solving/BOJ/농구 경기"
+              },
+              {
+                "type": "link",
                 "label": "2309. 일곱 난쟁이",
                 "href": "/docs/Problem Solving/BOJ/일곱 난쟁이",
                 "docId": "Problem Solving/BOJ/일곱 난쟁이"
@@ -112,6 +118,12 @@
       "id": "Problem Solving/about",
       "title": "About",
       "description": "- LeetCode : BonJunKu",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/BOJ/농구 경기": {
+      "id": "Problem Solving/BOJ/농구 경기",
+      "title": "1159. 농구 경기",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/BOJ/알파벳 갯수": {

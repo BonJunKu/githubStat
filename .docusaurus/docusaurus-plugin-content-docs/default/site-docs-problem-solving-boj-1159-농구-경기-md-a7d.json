@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/BOJ/농구 경기",
+  "id": "Problem Solving/BOJ/농구 경기",
+  "title": "1159. 농구 경기",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/BOJ/1159. 농구 경기.md",
+  "sourceDirName": "Problem Solving/BOJ",
+  "slug": "/Problem Solving/BOJ/농구 경기",
+  "permalink": "/docs/Problem Solving/BOJ/농구 경기",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1159,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About",
+    "permalink": "/docs/Problem Solving/about"
+  },
+  "next": {
+    "title": "2309. 일곱 난쟁이",
+    "permalink": "/docs/Problem Solving/BOJ/일곱 난쟁이"
+  }
+}

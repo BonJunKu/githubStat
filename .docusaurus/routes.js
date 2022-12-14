@@ -79,11 +79,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7b7'),
+    component: ComponentCreator('/docs', '73f'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
         component: ComponentCreator('/docs/Problem Solving/about', 'b4d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/BOJ/농구 경기',
+        component: ComponentCreator('/docs/Problem Solving/BOJ/농구 경기', '2a4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

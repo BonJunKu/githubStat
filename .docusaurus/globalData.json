@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/BOJ/농구 경기",
+              "path": "/docs/Problem Solving/BOJ/농구 경기",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/BOJ/알파벳 갯수",
               "path": "/docs/Problem Solving/BOJ/알파벳 갯수",
               "sidebar": "tutorialSidebar"
