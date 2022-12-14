@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '998'),
+    component: ComponentCreator('/docs', '7b7'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -102,6 +102,12 @@ export default [
       {
         path: '/docs/Problem Solving/BOJ/트럭 주차',
         component: ComponentCreator('/docs/Problem Solving/BOJ/트럭 주차', '731'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/BOJ/팰린드롬인지 확인하기',
+        component: ComponentCreator('/docs/Problem Solving/BOJ/팰린드롬인지 확인하기', 'ab8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

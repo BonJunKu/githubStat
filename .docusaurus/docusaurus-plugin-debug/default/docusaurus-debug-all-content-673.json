@@ -59,8 +59,8 @@
                 "permalink": "/docs/Problem Solving/BOJ/트럭 주차"
               },
               "next": {
-                "title": "121. Best Time to Buy and Sell Stock",
-                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+                "title": "10988. 팰린드롬인지 확인하기",
+                "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"
               }
             },
             {
@@ -112,6 +112,30 @@
               }
             },
             {
+              "unversionedId": "Problem Solving/BOJ/팰린드롬인지 확인하기",
+              "id": "Problem Solving/BOJ/팰린드롬인지 확인하기",
+              "title": "10988. 팰린드롬인지 확인하기",
+              "description": "문제",
+              "source": "@site/docs/Problem Solving/BOJ/10988. 팰린드롬인지 확인하기.md",
+              "sourceDirName": "Problem Solving/BOJ",
+              "slug": "/Problem Solving/BOJ/팰린드롬인지 확인하기",
+              "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10988,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "10808. 알파벳 개수",
+                "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
+              },
+              "next": {
+                "title": "121. Best Time to Buy and Sell Stock",
+                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+              }
+            },
+            {
               "unversionedId": "Problem Solving/LeetCode/Array Partition",
               "id": "Problem Solving/LeetCode/Array Partition",
               "title": "561. Array Partition",
@@ -151,8 +175,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "10808. 알파벳 개수",
-                "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
+                "title": "10988. 팰린드롬인지 확인하기",
+                "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"
               },
               "next": {
                 "title": "125. Valid Palindrome",
@@ -306,6 +330,10 @@
                       {
                         "type": "doc",
                         "id": "Problem Solving/BOJ/알파벳 갯수"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/BOJ/팰린드롬인지 확인하기"
                       }
                     ]
                   },

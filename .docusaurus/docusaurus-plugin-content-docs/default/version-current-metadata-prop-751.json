@@ -44,6 +44,12 @@
                 "label": "10808. 알파벳 개수",
                 "href": "/docs/Problem Solving/BOJ/알파벳 갯수",
                 "docId": "Problem Solving/BOJ/알파벳 갯수"
+              },
+              {
+                "type": "link",
+                "label": "10988. 팰린드롬인지 확인하기",
+                "href": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기",
+                "docId": "Problem Solving/BOJ/팰린드롬인지 확인하기"
               }
             ]
           },
@@ -123,6 +129,12 @@
     "Problem Solving/BOJ/트럭 주차": {
       "id": "Problem Solving/BOJ/트럭 주차",
       "title": "2979. 트럭 주차",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/BOJ/팰린드롬인지 확인하기": {
+      "id": "Problem Solving/BOJ/팰린드롬인지 확인하기",
+      "title": "10988. 팰린드롬인지 확인하기",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },
