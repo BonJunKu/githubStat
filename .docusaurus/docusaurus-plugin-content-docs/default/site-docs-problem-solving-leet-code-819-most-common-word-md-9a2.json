@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "561. Array Partition",
-    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+    "title": "622. Design Circular Queue",
+    "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue"
   },
   "next": {
     "title": "937. Reorder Data in Log Files",

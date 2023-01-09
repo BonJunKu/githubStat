@@ -109,6 +109,12 @@
               },
               {
                 "type": "link",
+                "label": "622. Design Circular Queue",
+                "href": "/docs/Problem Solving/LeetCode/Design Circular Queue",
+                "docId": "Problem Solving/LeetCode/Design Circular Queue"
+              },
+              {
+                "type": "link",
                 "label": "819. Most Common Word",
                 "href": "/docs/Problem Solving/LeetCode/Most Common Word",
                 "docId": "Problem Solving/LeetCode/Most Common Word"
@@ -172,6 +178,12 @@
       "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
       "title": "121. Best Time to Buy and Sell Stock",
       "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Design Circular Queue": {
+      "id": "Problem Solving/LeetCode/Design Circular Queue",
+      "title": "622. Design Circular Queue",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Implement Queue using Stacks": {

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Design Circular Queue",
+  "id": "Problem Solving/LeetCode/Design Circular Queue",
+  "title": "622. Design Circular Queue",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/622. Design Circular Queue.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Design Circular Queue",
+  "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 622,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "561. Array Partition",
+    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+  },
+  "next": {
+    "title": "819. Most Common Word",
+    "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
+  }
+}
