@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Implement Stack using Queues",
+  "id": "Problem Solving/LeetCode/Implement Stack using Queues",
+  "title": "225. Implement Stack using Queues",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/225. Implement Stack using Queues.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Implement Stack using Queues",
+  "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 225,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "125. Valid Palindrome",
+    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+  },
+  "next": {
+    "title": "238. Product of Array Except Self",
+    "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+  }
+}

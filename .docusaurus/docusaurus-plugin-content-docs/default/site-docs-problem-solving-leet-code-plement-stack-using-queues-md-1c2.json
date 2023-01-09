@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/plement Stack using Queues",
+  "id": "Problem Solving/LeetCode/plement Stack using Queues",
+  "title": "plement Stack using Queues",
+  "description": "d",
+  "source": "@site/docs/Problem Solving/LeetCode/plement Stack using Queues.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/plement Stack using Queues",
+  "permalink": "/docs/Problem Solving/LeetCode/plement Stack using Queues",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "937. Reorder Data in Log Files",
+    "permalink": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files"
+  }
+}

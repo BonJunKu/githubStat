@@ -79,6 +79,12 @@
               },
               {
                 "type": "link",
+                "label": "225. Implement Stack using Queues",
+                "href": "/docs/Problem Solving/LeetCode/Implement Stack using Queues",
+                "docId": "Problem Solving/LeetCode/Implement Stack using Queues"
+              },
+              {
+                "type": "link",
                 "label": "238. Product of Array Except Self",
                 "href": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
                 "docId": "Problem Solving/LeetCode/Product of Array Except Self"
@@ -160,6 +166,12 @@
       "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
       "title": "121. Best Time to Buy and Sell Stock",
       "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Implement Stack using Queues": {
+      "id": "Problem Solving/LeetCode/Implement Stack using Queues",
+      "title": "225. Implement Stack using Queues",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Most Common Word": {

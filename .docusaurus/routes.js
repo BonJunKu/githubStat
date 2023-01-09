@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '73f'),
+    component: ComponentCreator('/docs', '77d'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -126,6 +126,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '627'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Implement Stack using Queues',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Stack using Queues', 'de6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

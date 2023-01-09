@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+    "title": "225. Implement Stack using Queues",
+    "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
   },
   "next": {
     "title": "344. Reverse String",
