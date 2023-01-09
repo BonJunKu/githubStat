@@ -208,6 +208,30 @@
               }
             },
             {
+              "unversionedId": "Problem Solving/LeetCode/Implement Queue using Stacks",
+              "id": "Problem Solving/LeetCode/Implement Queue using Stacks",
+              "title": "232. Implement Queue using Stacks",
+              "description": "문제",
+              "source": "@site/docs/Problem Solving/LeetCode/232. Implement Queue using Stacks.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/Implement Queue using Stacks",
+              "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 232,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "225. Implement Stack using Queues",
+                "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
+              },
+              "next": {
+                "title": "238. Product of Array Except Self",
+                "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+              }
+            },
+            {
               "unversionedId": "Problem Solving/LeetCode/Implement Stack using Queues",
               "id": "Problem Solving/LeetCode/Implement Stack using Queues",
               "title": "225. Implement Stack using Queues",
@@ -227,8 +251,8 @@
                 "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
               },
               "next": {
-                "title": "238. Product of Array Except Self",
-                "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+                "title": "232. Implement Queue using Stacks",
+                "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks"
               }
             },
             {
@@ -271,8 +295,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "225. Implement Stack using Queues",
-                "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
+                "title": "232. Implement Queue using Stacks",
+                "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks"
               },
               "next": {
                 "title": "344. Reverse String",
@@ -406,6 +430,10 @@
                       {
                         "type": "doc",
                         "id": "Problem Solving/LeetCode/Implement Stack using Queues"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/Implement Queue using Stacks"
                       },
                       {
                         "type": "doc",

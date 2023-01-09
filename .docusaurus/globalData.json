@@ -51,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Implement Queue using Stacks",
+              "path": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Implement Stack using Queues",
               "path": "/docs/Problem Solving/LeetCode/Implement Stack using Queues",
               "sidebar": "tutorialSidebar"
