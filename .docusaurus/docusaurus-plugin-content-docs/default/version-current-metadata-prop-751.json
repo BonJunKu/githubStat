@@ -67,6 +67,12 @@
             "items": [
               {
                 "type": "link",
+                "label": "104. Maximum Depth of Binary Tree",
+                "href": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+                "docId": "Problem Solving/LeetCode/Maximum Depth of Binary Tree"
+              },
+              {
+                "type": "link",
                 "label": "121. Best Time to Buy and Sell Stock",
                 "href": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
                 "docId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
@@ -195,6 +201,12 @@
     "Problem Solving/LeetCode/Implement Stack using Queues": {
       "id": "Problem Solving/LeetCode/Implement Stack using Queues",
       "title": "225. Implement Stack using Queues",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Maximum Depth of Binary Tree": {
+      "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+      "title": "104. Maximum Depth of Binary Tree",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },

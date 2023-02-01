@@ -66,6 +66,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "path": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Most Common Word",
               "path": "/docs/Problem Solving/LeetCode/Most Common Word",
               "sidebar": "tutorialSidebar"

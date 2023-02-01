@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "10988. 팰린드롬인지 확인하기",
-    "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"
+    "title": "104. Maximum Depth of Binary Tree",
+    "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree"
   },
   "next": {
     "title": "125. Valid Palindrome",

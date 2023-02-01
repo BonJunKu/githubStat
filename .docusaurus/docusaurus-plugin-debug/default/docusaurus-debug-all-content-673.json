@@ -155,8 +155,8 @@
                 "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
               },
               "next": {
-                "title": "121. Best Time to Buy and Sell Stock",
-                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+                "title": "104. Maximum Depth of Binary Tree",
+                "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree"
               }
             },
             {
@@ -199,8 +199,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "10988. 팰린드롬인지 확인하기",
-                "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"
+                "title": "104. Maximum Depth of Binary Tree",
+                "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree"
               },
               "next": {
                 "title": "125. Valid Palindrome",
@@ -277,6 +277,30 @@
               "next": {
                 "title": "232. Implement Queue using Stacks",
                 "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "title": "104. Maximum Depth of Binary Tree",
+              "description": "문제",
+              "source": "@site/docs/Problem Solving/LeetCode/104. Maximum Depth of Binary Tree.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 104,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "10988. 팰린드롬인지 확인하기",
+                "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"
+              },
+              "next": {
+                "title": "121. Best Time to Buy and Sell Stock",
+                "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
               }
             },
             {
@@ -443,6 +467,10 @@
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree"
+                      },
                       {
                         "type": "doc",
                         "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"

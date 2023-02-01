@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3e1'),
+    component: ComponentCreator('/docs', '9a8'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -144,6 +144,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Implement Stack using Queues',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Stack using Queues', 'de6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree', 'af4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
