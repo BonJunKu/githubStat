@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Longest Univalue Path",
+  "id": "Problem Solving/LeetCode/Longest Univalue Path",
+  "title": "687. Longest Univalue Path",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/687. Longest Univalue Path.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Longest Univalue Path",
+  "permalink": "/docs/Problem Solving/LeetCode/Longest Univalue Path",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 687,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "622. Design Circular Queue",
+    "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue"
+  },
+  "next": {
+    "title": "819. Most Common Word",
+    "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
+  }
+}

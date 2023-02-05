@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "225. Implement Stack using Queues",
-    "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
+    "title": "226. Invert Binary Tree",
+    "permalink": "/docs/Problem Solving/LeetCode/Invert Binary Tree"
   },
   "next": {
     "title": "238. Product of Array Except Self",

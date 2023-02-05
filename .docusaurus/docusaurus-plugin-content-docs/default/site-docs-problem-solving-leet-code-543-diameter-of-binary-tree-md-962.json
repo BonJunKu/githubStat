@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Diameter of Binary Tree",
+  "id": "Problem Solving/LeetCode/Diameter of Binary Tree",
+  "title": "543. Diameter of Binary Tree",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/543. Diameter of Binary Tree.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Diameter of Binary Tree",
+  "permalink": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 543,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "344. Reverse String",
+    "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+  },
+  "next": {
+    "title": "561. Array Partition",
+    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+  }
+}

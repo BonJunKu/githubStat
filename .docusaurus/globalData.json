@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Balanced Binary Tree",
+              "path": "/docs/Problem Solving/LeetCode/Balanced Binary Tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "path": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "sidebar": "tutorialSidebar"
@@ -53,6 +58,11 @@
             {
               "id": "Problem Solving/LeetCode/Design Circular Queue",
               "path": "/docs/Problem Solving/LeetCode/Design Circular Queue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/LeetCode/Diameter of Binary Tree",
+              "path": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -66,8 +76,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Invert Binary Tree",
+              "path": "/docs/Problem Solving/LeetCode/Invert Binary Tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/LeetCode/Longest Univalue Path",
+              "path": "/docs/Problem Solving/LeetCode/Longest Univalue Path",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/LeetCode/Merge Two Binary Trees",
+              "path": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees",
               "sidebar": "tutorialSidebar"
             },
             {

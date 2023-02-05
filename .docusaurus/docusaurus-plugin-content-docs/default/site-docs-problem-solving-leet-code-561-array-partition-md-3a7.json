@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "344. Reverse String",
-    "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+    "title": "543. Diameter of Binary Tree",
+    "permalink": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree"
   },
   "next": {
-    "title": "622. Design Circular Queue",
-    "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue"
+    "title": "617. Merge Two Binary Trees",
+    "permalink": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees"
   }
 }

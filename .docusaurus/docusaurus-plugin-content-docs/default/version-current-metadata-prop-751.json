@@ -73,6 +73,12 @@
               },
               {
                 "type": "link",
+                "label": "110. Balanced Binary Tree",
+                "href": "/docs/Problem Solving/LeetCode/Balanced Binary Tree",
+                "docId": "Problem Solving/LeetCode/Balanced Binary Tree"
+              },
+              {
+                "type": "link",
                 "label": "121. Best Time to Buy and Sell Stock",
                 "href": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
                 "docId": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
@@ -88,6 +94,12 @@
                 "label": "225. Implement Stack using Queues",
                 "href": "/docs/Problem Solving/LeetCode/Implement Stack using Queues",
                 "docId": "Problem Solving/LeetCode/Implement Stack using Queues"
+              },
+              {
+                "type": "link",
+                "label": "226. Invert Binary Tree",
+                "href": "/docs/Problem Solving/LeetCode/Invert Binary Tree",
+                "docId": "Problem Solving/LeetCode/Invert Binary Tree"
               },
               {
                 "type": "link",
@@ -109,15 +121,33 @@
               },
               {
                 "type": "link",
+                "label": "543. Diameter of Binary Tree",
+                "href": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree",
+                "docId": "Problem Solving/LeetCode/Diameter of Binary Tree"
+              },
+              {
+                "type": "link",
                 "label": "561. Array Partition",
                 "href": "/docs/Problem Solving/LeetCode/Array Partition",
                 "docId": "Problem Solving/LeetCode/Array Partition"
               },
               {
                 "type": "link",
+                "label": "617. Merge Two Binary Trees",
+                "href": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees",
+                "docId": "Problem Solving/LeetCode/Merge Two Binary Trees"
+              },
+              {
+                "type": "link",
                 "label": "622. Design Circular Queue",
                 "href": "/docs/Problem Solving/LeetCode/Design Circular Queue",
                 "docId": "Problem Solving/LeetCode/Design Circular Queue"
+              },
+              {
+                "type": "link",
+                "label": "687. Longest Univalue Path",
+                "href": "/docs/Problem Solving/LeetCode/Longest Univalue Path",
+                "docId": "Problem Solving/LeetCode/Longest Univalue Path"
               },
               {
                 "type": "link",
@@ -180,6 +210,12 @@
       "description": "Description",
       "sidebar": "tutorialSidebar"
     },
+    "Problem Solving/LeetCode/Balanced Binary Tree": {
+      "id": "Problem Solving/LeetCode/Balanced Binary Tree",
+      "title": "110. Balanced Binary Tree",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
     "Problem Solving/LeetCode/Best Time to Buy and Sell Stock": {
       "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
       "title": "121. Best Time to Buy and Sell Stock",
@@ -189,6 +225,12 @@
     "Problem Solving/LeetCode/Design Circular Queue": {
       "id": "Problem Solving/LeetCode/Design Circular Queue",
       "title": "622. Design Circular Queue",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Diameter of Binary Tree": {
+      "id": "Problem Solving/LeetCode/Diameter of Binary Tree",
+      "title": "543. Diameter of Binary Tree",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },
@@ -204,9 +246,27 @@
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },
+    "Problem Solving/LeetCode/Invert Binary Tree": {
+      "id": "Problem Solving/LeetCode/Invert Binary Tree",
+      "title": "226. Invert Binary Tree",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Longest Univalue Path": {
+      "id": "Problem Solving/LeetCode/Longest Univalue Path",
+      "title": "687. Longest Univalue Path",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
     "Problem Solving/LeetCode/Maximum Depth of Binary Tree": {
       "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
       "title": "104. Maximum Depth of Binary Tree",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Merge Two Binary Trees": {
+      "id": "Problem Solving/LeetCode/Merge Two Binary Trees",
+      "title": "617. Merge Two Binary Trees",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },

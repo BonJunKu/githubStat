@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "104. Maximum Depth of Binary Tree",
-    "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree"
+    "title": "110. Balanced Binary Tree",
+    "permalink": "/docs/Problem Solving/LeetCode/Balanced Binary Tree"
   },
   "next": {
     "title": "125. Valid Palindrome",

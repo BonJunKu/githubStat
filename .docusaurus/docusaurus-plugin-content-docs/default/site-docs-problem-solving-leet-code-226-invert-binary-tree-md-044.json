@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Invert Binary Tree",
+  "id": "Problem Solving/LeetCode/Invert Binary Tree",
+  "title": "226. Invert Binary Tree",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/226. Invert Binary Tree.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Invert Binary Tree",
+  "permalink": "/docs/Problem Solving/LeetCode/Invert Binary Tree",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 226,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "225. Implement Stack using Queues",
+    "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
+  },
+  "next": {
+    "title": "232. Implement Queue using Stacks",
+    "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks"
+  }
+}

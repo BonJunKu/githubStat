@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "561. Array Partition",
-    "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
+    "title": "617. Merge Two Binary Trees",
+    "permalink": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees"
   },
   "next": {
-    "title": "819. Most Common Word",
-    "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
+    "title": "687. Longest Univalue Path",
+    "permalink": "/docs/Problem Solving/LeetCode/Longest Univalue Path"
   }
 }

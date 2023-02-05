@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9a8'),
+    component: ComponentCreator('/docs', 'd7d'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -124,6 +124,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/Problem Solving/LeetCode/Balanced Binary Tree',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Balanced Binary Tree', '9c3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '627'),
         exact: true,
@@ -132,6 +138,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Design Circular Queue',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Design Circular Queue', 'c4b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Diameter of Binary Tree',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Diameter of Binary Tree', 'df2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -148,8 +160,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/Problem Solving/LeetCode/Invert Binary Tree',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Invert Binary Tree', '852'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Longest Univalue Path',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Longest Univalue Path', 'db7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree', 'af4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Merge Two Binary Trees',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Merge Two Binary Trees', '685'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "622. Design Circular Queue",
-    "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue"
+    "title": "687. Longest Univalue Path",
+    "permalink": "/docs/Problem Solving/LeetCode/Longest Univalue Path"
   },
   "next": {
     "title": "937. Reorder Data in Log Files",
