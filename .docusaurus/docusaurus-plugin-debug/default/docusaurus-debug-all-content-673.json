@@ -424,6 +424,30 @@
               }
             },
             {
+              "unversionedId": "Problem Solving/LeetCode/Minimum Height Trees",
+              "id": "Problem Solving/LeetCode/Minimum Height Trees",
+              "title": "310. Minimum Height Trees",
+              "description": "문제",
+              "source": "@site/docs/Problem Solving/LeetCode/310. Minimum Height Trees.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/Minimum Height Trees",
+              "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 310,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "297. Serialize and Deserialize Binary Tree",
+                "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
+              },
+              "next": {
+                "title": "344. Reverse String",
+                "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+              }
+            },
+            {
               "unversionedId": "Problem Solving/LeetCode/Most Common Word",
               "id": "Problem Solving/LeetCode/Most Common Word",
               "title": "819. Most Common Word",
@@ -507,8 +531,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "297. Serialize and Deserialize Binary Tree",
-                "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
+                "title": "310. Minimum Height Trees",
+                "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees"
               },
               "next": {
                 "title": "543. Diameter of Binary Tree",
@@ -535,8 +559,8 @@
                 "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
               },
               "next": {
-                "title": "344. Reverse String",
-                "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+                "title": "310. Minimum Height Trees",
+                "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees"
               }
             },
             {
@@ -646,6 +670,10 @@
                       {
                         "type": "doc",
                         "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/Minimum Height Trees"
                       },
                       {
                         "type": "doc",

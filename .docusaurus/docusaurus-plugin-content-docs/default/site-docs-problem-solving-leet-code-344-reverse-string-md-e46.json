@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "297. Serialize and Deserialize Binary Tree",
-    "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
+    "title": "310. Minimum Height Trees",
+    "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees"
   },
   "next": {
     "title": "543. Diameter of Binary Tree",

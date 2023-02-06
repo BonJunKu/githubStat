@@ -121,6 +121,12 @@
               },
               {
                 "type": "link",
+                "label": "310. Minimum Height Trees",
+                "href": "/docs/Problem Solving/LeetCode/Minimum Height Trees",
+                "docId": "Problem Solving/LeetCode/Minimum Height Trees"
+              },
+              {
+                "type": "link",
                 "label": "344. Reverse String",
                 "href": "/docs/Problem Solving/LeetCode/Reverse String",
                 "docId": "Problem Solving/LeetCode/Reverse String"
@@ -273,6 +279,12 @@
     "Problem Solving/LeetCode/Merge Two Binary Trees": {
       "id": "Problem Solving/LeetCode/Merge Two Binary Trees",
       "title": "617. Merge Two Binary Trees",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Minimum Height Trees": {
+      "id": "Problem Solving/LeetCode/Minimum Height Trees",
+      "title": "310. Minimum Height Trees",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },

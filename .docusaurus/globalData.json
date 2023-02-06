@@ -96,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Minimum Height Trees",
+              "path": "/docs/Problem Solving/LeetCode/Minimum Height Trees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Most Common Word",
               "path": "/docs/Problem Solving/LeetCode/Most Common Word",
               "sidebar": "tutorialSidebar"

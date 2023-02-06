@@ -113,7 +113,7 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-968": {
+  "/docs-807": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsd-05-7bd"
@@ -187,6 +187,10 @@
   "/docs/Problem Solving/LeetCode/Merge Two Binary Trees-685": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-merge-two-binary-trees-573-559"
+  },
+  "/docs/Problem Solving/LeetCode/Minimum Height Trees-489": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-problem-solving-leet-code-minimum-height-treesc-66-a90"
   },
   "/docs/Problem Solving/LeetCode/Most Common Word-524": {
     "__comp": "__comp---theme-doc-item-178-a40",

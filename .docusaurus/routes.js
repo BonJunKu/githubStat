@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '968'),
+    component: ComponentCreator('/docs', '807'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -180,6 +180,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Merge Two Binary Trees',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Merge Two Binary Trees', '685'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Minimum Height Trees',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Minimum Height Trees', '489'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
