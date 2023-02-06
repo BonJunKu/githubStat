@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "238. Product of Array Except Self",
-    "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+    "title": "297. Serialize and Deserialize Binary Tree",
+    "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
   },
   "next": {
     "title": "543. Diameter of Binary Tree",

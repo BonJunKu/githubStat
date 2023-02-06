@@ -467,8 +467,8 @@
                 "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks"
               },
               "next": {
-                "title": "344. Reverse String",
-                "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+                "title": "297. Serialize and Deserialize Binary Tree",
+                "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
               }
             },
             {
@@ -507,12 +507,36 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "238. Product of Array Except Self",
-                "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+                "title": "297. Serialize and Deserialize Binary Tree",
+                "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
               },
               "next": {
                 "title": "543. Diameter of Binary Tree",
                 "permalink": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+              "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+              "title": "297. Serialize and Deserialize Binary Tree",
+              "description": "문제",
+              "source": "@site/docs/Problem Solving/LeetCode/297. Serialize and Deserialize Binary Tree.md",
+              "sourceDirName": "Problem Solving/LeetCode",
+              "slug": "/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+              "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 297,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "238. Product of Array Except Self",
+                "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
+              },
+              "next": {
+                "title": "344. Reverse String",
+                "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
               }
             },
             {
@@ -618,6 +642,10 @@
                       {
                         "type": "doc",
                         "id": "Problem Solving/LeetCode/Product of Array Except Self"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
                       },
                       {
                         "type": "doc",

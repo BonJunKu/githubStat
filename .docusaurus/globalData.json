@@ -116,6 +116,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+              "path": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Valid Palindrome",
               "path": "/docs/Problem Solving/LeetCode/Valid Palindrome",
               "sidebar": "tutorialSidebar"

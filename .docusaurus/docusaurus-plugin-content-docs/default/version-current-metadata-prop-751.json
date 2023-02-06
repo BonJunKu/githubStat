@@ -115,6 +115,12 @@
               },
               {
                 "type": "link",
+                "label": "297. Serialize and Deserialize Binary Tree",
+                "href": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+                "docId": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
+              },
+              {
+                "type": "link",
                 "label": "344. Reverse String",
                 "href": "/docs/Problem Solving/LeetCode/Reverse String",
                 "docId": "Problem Solving/LeetCode/Reverse String"
@@ -292,6 +298,12 @@
       "id": "Problem Solving/LeetCode/Reverse String",
       "title": "344. Reverse String",
       "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree": {
+      "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
+      "title": "297. Serialize and Deserialize Binary Tree",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Valid Palindrome": {

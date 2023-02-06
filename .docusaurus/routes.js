@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd7d'),
+    component: ComponentCreator('/docs', '968'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -204,6 +204,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Reverse String',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Reverse String', '11a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree', '56a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
