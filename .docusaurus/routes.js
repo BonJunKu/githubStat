@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'cdf'),
+    component: ComponentCreator('/docs', '398'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -156,6 +156,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Implement Stack using Queues',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Stack using Queues', 'de6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Implement Trie',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Trie', '2a7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

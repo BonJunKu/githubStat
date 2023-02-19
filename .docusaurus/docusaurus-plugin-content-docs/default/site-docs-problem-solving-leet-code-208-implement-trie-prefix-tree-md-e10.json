@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Implement Trie (Prefix Tree)",
+  "id": "Problem Solving/LeetCode/Implement Trie (Prefix Tree)",
+  "title": "208. Implement Trie (Prefix Tree)",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/208. Implement Trie (Prefix Tree).md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Implement Trie (Prefix Tree)",
+  "permalink": "/docs/Problem Solving/LeetCode/Implement Trie (Prefix Tree)",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 208,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "125. Valid Palindrome",
+    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+  },
+  "next": {
+    "title": "215. Kth Largest Element in an Array",
+    "permalink": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array"
+  }
+}

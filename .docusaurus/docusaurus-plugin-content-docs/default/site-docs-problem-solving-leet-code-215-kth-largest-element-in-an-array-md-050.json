@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+    "title": "208. Implement Trie",
+    "permalink": "/docs/Problem Solving/LeetCode/Implement Trie"
   },
   "next": {
     "title": "225. Implement Stack using Queues",

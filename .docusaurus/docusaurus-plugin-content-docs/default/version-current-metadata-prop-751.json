@@ -91,6 +91,12 @@
               },
               {
                 "type": "link",
+                "label": "208. Implement Trie",
+                "href": "/docs/Problem Solving/LeetCode/Implement Trie",
+                "docId": "Problem Solving/LeetCode/Implement Trie"
+              },
+              {
+                "type": "link",
                 "label": "215. Kth Largest Element in an Array",
                 "href": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array",
                 "docId": "Problem Solving/LeetCode/Kth Largest Element in an Array"
@@ -261,6 +267,12 @@
     "Problem Solving/LeetCode/Implement Stack using Queues": {
       "id": "Problem Solving/LeetCode/Implement Stack using Queues",
       "title": "225. Implement Stack using Queues",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Implement Trie": {
+      "id": "Problem Solving/LeetCode/Implement Trie",
+      "title": "208. Implement Trie",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },

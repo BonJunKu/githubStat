@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Implement Trie",
+              "path": "/docs/Problem Solving/LeetCode/Implement Trie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Invert Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Invert Binary Tree",
               "sidebar": "tutorialSidebar"
