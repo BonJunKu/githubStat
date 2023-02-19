@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '398'),
+    component: ComponentCreator('/docs', '7fd'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -204,6 +204,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Most Common Word',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Most Common Word', '524'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Palindrome Pairs',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Palindrome Pairs', '9d6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

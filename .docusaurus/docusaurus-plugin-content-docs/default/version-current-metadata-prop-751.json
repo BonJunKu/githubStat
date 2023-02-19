@@ -139,6 +139,12 @@
               },
               {
                 "type": "link",
+                "label": "336. Palindrome Pairs",
+                "href": "/docs/Problem Solving/LeetCode/Palindrome Pairs",
+                "docId": "Problem Solving/LeetCode/Palindrome Pairs"
+              },
+              {
+                "type": "link",
                 "label": "344. Reverse String",
                 "href": "/docs/Problem Solving/LeetCode/Reverse String",
                 "docId": "Problem Solving/LeetCode/Reverse String"
@@ -316,6 +322,12 @@
       "id": "Problem Solving/LeetCode/Most Common Word",
       "title": "819. Most Common Word",
       "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Palindrome Pairs": {
+      "id": "Problem Solving/LeetCode/Palindrome Pairs",
+      "title": "336. Palindrome Pairs",
+      "description": "문제",
       "sidebar": "tutorialSidebar"
     },
     "Problem Solving/LeetCode/Product of Array Except Self": {

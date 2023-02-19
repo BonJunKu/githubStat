@@ -116,6 +116,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Palindrome Pairs",
+              "path": "/docs/Problem Solving/LeetCode/Palindrome Pairs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Product of Array Except Self",
               "path": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
               "sidebar": "tutorialSidebar"

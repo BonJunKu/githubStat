@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Palindrome Pairs",
+  "id": "Problem Solving/LeetCode/Palindrome Pairs",
+  "title": "336. Palindrome Pairs",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/336. Palindrome Pairs.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Palindrome Pairs",
+  "permalink": "/docs/Problem Solving/LeetCode/Palindrome Pairs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 336,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "310. Minimum Height Trees",
+    "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees"
+  },
+  "next": {
+    "title": "344. Reverse String",
+    "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
+  }
+}
