@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "125. Valid Palindrome",
-    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+    "title": "215. Kth Largest Element in an Array",
+    "permalink": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array"
   },
   "next": {
     "title": "226. Invert Binary Tree",

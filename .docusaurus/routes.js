@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '807'),
+    component: ComponentCreator('/docs', 'cdf'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -162,6 +162,12 @@ export default [
       {
         path: '/docs/Problem Solving/LeetCode/Invert Binary Tree',
         component: ComponentCreator('/docs/Problem Solving/LeetCode/Invert Binary Tree', '852'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Problem Solving/LeetCode/Kth Largest Element in an Array',
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Kth Largest Element in an Array', '298'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

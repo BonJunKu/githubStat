@@ -81,6 +81,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problem Solving/LeetCode/Kth Largest Element in an Array",
+              "path": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problem Solving/LeetCode/Longest Univalue Path",
               "path": "/docs/Problem Solving/LeetCode/Longest Univalue Path",
               "sidebar": "tutorialSidebar"

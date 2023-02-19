@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/LeetCode/Kth Largest Element in an Array",
+  "id": "Problem Solving/LeetCode/Kth Largest Element in an Array",
+  "title": "215. Kth Largest Element in an Array",
+  "description": "문제",
+  "source": "@site/docs/Problem Solving/LeetCode/215. Kth Largest Element in an Array.md",
+  "sourceDirName": "Problem Solving/LeetCode",
+  "slug": "/Problem Solving/LeetCode/Kth Largest Element in an Array",
+  "permalink": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 215,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "125. Valid Palindrome",
+    "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
+  },
+  "next": {
+    "title": "225. Implement Stack using Queues",
+    "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
+  }
+}

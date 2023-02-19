@@ -91,6 +91,12 @@
               },
               {
                 "type": "link",
+                "label": "215. Kth Largest Element in an Array",
+                "href": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array",
+                "docId": "Problem Solving/LeetCode/Kth Largest Element in an Array"
+              },
+              {
+                "type": "link",
                 "label": "225. Implement Stack using Queues",
                 "href": "/docs/Problem Solving/LeetCode/Implement Stack using Queues",
                 "docId": "Problem Solving/LeetCode/Implement Stack using Queues"
@@ -261,6 +267,12 @@
     "Problem Solving/LeetCode/Invert Binary Tree": {
       "id": "Problem Solving/LeetCode/Invert Binary Tree",
       "title": "226. Invert Binary Tree",
+      "description": "문제",
+      "sidebar": "tutorialSidebar"
+    },
+    "Problem Solving/LeetCode/Kth Largest Element in an Array": {
+      "id": "Problem Solving/LeetCode/Kth Largest Element in an Array",
+      "title": "215. Kth Largest Element in an Array",
       "description": "문제",
       "sidebar": "tutorialSidebar"
     },
