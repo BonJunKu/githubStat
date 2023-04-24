@@ -246,6 +246,24 @@ export default [
     ]
   },
   {
+    path: '/snippets',
+    component: ComponentCreator('/snippets', '8d1'),
+    routes: [
+      {
+        path: '/snippets/about',
+        component: ComponentCreator('/snippets/about', 'f04'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/snippets/TypeScript/Initialization',
+        component: ComponentCreator('/snippets/TypeScript/Initialization', '865'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      }
+    ]
+  },
+  {
     path: '/',
     component: ComponentCreator('/', 'f9c'),
     exact: true

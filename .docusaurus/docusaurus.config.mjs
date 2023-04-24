@@ -62,6 +62,17 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "snippets",
+        "path": "snippets",
+        "routeBasePath": "snippets",
+        "sidebarPath": "/Users/bonjun/github/BonJunKu/sidebars.js"
+      }
+    ]
+  ],
   "themeConfig": {
     "colorMode": {
       "defaultMode": "dark",
@@ -85,6 +96,11 @@ export default {
           "docId": "Problem Solving/about",
           "position": "left",
           "label": "Problem Solving"
+        },
+        {
+          "to": "/snippets/about",
+          "position": "left",
+          "label": "Snippets"
         },
         {
           "to": "/blog/tags",
@@ -368,7 +384,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

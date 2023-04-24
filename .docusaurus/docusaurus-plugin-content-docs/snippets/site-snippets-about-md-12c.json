@@ -1,0 +1,19 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "Snippets",
+  "description": "",
+  "source": "@site/snippets/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/snippets/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Initialization",
+    "permalink": "/snippets/TypeScript/Initialization"
+  }
+}

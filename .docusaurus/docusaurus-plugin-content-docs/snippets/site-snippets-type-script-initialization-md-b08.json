@@ -1,0 +1,19 @@
+{
+  "unversionedId": "TypeScript/Initialization",
+  "id": "TypeScript/Initialization",
+  "title": "Initialization",
+  "description": "",
+  "source": "@site/snippets/TypeScript/Initialization.md",
+  "sourceDirName": "TypeScript",
+  "slug": "/TypeScript/Initialization",
+  "permalink": "/snippets/TypeScript/Initialization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Snippets",
+    "permalink": "/snippets/about"
+  }
+}

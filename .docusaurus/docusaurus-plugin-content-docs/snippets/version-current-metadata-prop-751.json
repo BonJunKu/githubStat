@@ -1,0 +1,48 @@
+{
+  "pluginId": "snippets",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "TypeScript",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Initialization",
+            "href": "/snippets/TypeScript/Initialization",
+            "docId": "TypeScript/Initialization"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Snippets",
+        "href": "/snippets/about",
+        "docId": "about"
+      }
+    ]
+  },
+  "docs": {
+    "about": {
+      "id": "about",
+      "title": "Snippets",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "TypeScript/Initialization": {
+      "id": "TypeScript/Initialization",
+      "title": "Initialization",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
