@@ -98,7 +98,7 @@ export default {
           "label": "Problem Solving"
         },
         {
-          "to": "/snippets/about",
+          "to": "snippets/about",
           "position": "left",
           "label": "Snippets"
         },
