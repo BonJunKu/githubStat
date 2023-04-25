@@ -75,17 +75,17 @@ const config = {
     ],
   ],
 
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'snippets',
-        path: 'snippets',
-        routeBasePath: 'snippets',
-        sidebarPath: require.resolve('./sidebars.js'),
-      },
-    ],
-  ],
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-docs',
+  //     {
+  //       id: 'snippets',
+  //       path: 'snippets',
+  //       routeBasePath: 'snippets',
+  //       sidebarPath: require.resolve('./sidebars.js'),
+  //     },
+  //   ],
+  // ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -109,11 +109,11 @@ const config = {
             position: 'left',
             label: 'Problem Solving',
           },
-          {
-            to: 'snippets/about',
-            position: 'left',
-            label: 'Snippets',
-          },
+          // {
+          //   to: 'snippets/about',
+          //   position: 'left',
+          //   label: 'Snippets',
+          // },
           { to: '/blog/tags', label: 'Tags', position: 'right' },
           {
             href: 'https://github.com/bonjunku',
