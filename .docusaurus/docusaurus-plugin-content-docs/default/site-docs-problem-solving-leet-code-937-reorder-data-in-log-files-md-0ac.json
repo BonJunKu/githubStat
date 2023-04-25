@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 937,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "819. Most Common Word",
     "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"

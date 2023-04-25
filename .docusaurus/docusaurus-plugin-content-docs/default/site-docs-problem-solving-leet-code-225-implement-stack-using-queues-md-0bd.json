@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 225,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "215. Kth Largest Element in an Array",
     "permalink": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array"

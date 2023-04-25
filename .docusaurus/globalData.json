@@ -13,145 +13,161 @@
             {
               "id": "Problem Solving/about",
               "path": "/docs/Problem Solving/about",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/BOJ/농구 경기",
               "path": "/docs/Problem Solving/BOJ/농구 경기",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/BOJ/알파벳 갯수",
               "path": "/docs/Problem Solving/BOJ/알파벳 갯수",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/BOJ/일곱 난쟁이",
               "path": "/docs/Problem Solving/BOJ/일곱 난쟁이",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/BOJ/트럭 주차",
               "path": "/docs/Problem Solving/BOJ/트럭 주차",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/BOJ/팰린드롬인지 확인하기",
               "path": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Array Partition",
               "path": "/docs/Problem Solving/LeetCode/Array Partition",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Balanced Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Balanced Binary Tree",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
               "path": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Design Circular Queue",
               "path": "/docs/Problem Solving/LeetCode/Design Circular Queue",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Diameter of Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Implement Queue using Stacks",
               "path": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Implement Stack using Queues",
               "path": "/docs/Problem Solving/LeetCode/Implement Stack using Queues",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Implement Trie",
               "path": "/docs/Problem Solving/LeetCode/Implement Trie",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Invert Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Invert Binary Tree",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Kth Largest Element in an Array",
               "path": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Longest Univalue Path",
               "path": "/docs/Problem Solving/LeetCode/Longest Univalue Path",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Merge Two Binary Trees",
               "path": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Minimum Height Trees",
               "path": "/docs/Problem Solving/LeetCode/Minimum Height Trees",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Most Common Word",
               "path": "/docs/Problem Solving/LeetCode/Most Common Word",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Palindrome Pairs",
               "path": "/docs/Problem Solving/LeetCode/Palindrome Pairs",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Product of Array Except Self",
               "path": "/docs/Problem Solving/LeetCode/Product of Array Except Self",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Reorder Data in Log Files",
               "path": "/docs/Problem Solving/LeetCode/Reorder Data in Log Files",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Reverse String",
               "path": "/docs/Problem Solving/LeetCode/Reverse String",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
               "path": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
             },
             {
               "id": "Problem Solving/LeetCode/Valid Palindrome",
               "path": "/docs/Problem Solving/LeetCode/Valid Palindrome",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "problemSolving"
+            },
+            {
+              "id": "Snippets/about",
+              "path": "/docs/Snippets/about",
+              "sidebar": "snippets"
+            },
+            {
+              "id": "Snippets/Initialization",
+              "path": "/docs/Snippets/Initialization",
+              "sidebar": "snippets"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "problemSolving": {
               "link": {
                 "path": "/docs/Problem Solving/about",
                 "label": "Problem Solving/about"
+              }
+            },
+            "snippets": {
+              "link": {
+                "path": "/docs/Snippets/about",
+                "label": "Snippets/about"
               }
             }
           }

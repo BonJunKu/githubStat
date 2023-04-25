@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 344,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "336. Palindrome Pairs",
     "permalink": "/docs/Problem Solving/LeetCode/Palindrome Pairs"

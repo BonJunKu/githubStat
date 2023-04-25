@@ -1,0 +1,14 @@
+{
+  "label": "Hi",
+  "permalink": "/docs/tags/hi",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Problem Solving/about",
+      "title": "About",
+      "description": "This is a page for problem solving.",
+      "permalink": "/docs/Problem Solving/about"
+    }
+  ]
+}

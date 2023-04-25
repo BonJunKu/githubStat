@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 110,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "104. Maximum Depth of Binary Tree",
     "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree"

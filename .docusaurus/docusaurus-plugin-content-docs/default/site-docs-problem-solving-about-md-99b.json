@@ -1,8 +1,8 @@
 {
   "unversionedId": "Problem Solving/about",
   "id": "Problem Solving/about",
-  "title": "About",
-  "description": "- LeetCode : BonJunKu",
+  "title": "About PS",
+  "description": "This is a page for problem solving.",
   "source": "@site/docs/Problem Solving/about.md",
   "sourceDirName": "Problem Solving",
   "slug": "/Problem Solving/about",
@@ -12,9 +12,10 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
+    "title": "About PS",
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "next": {
     "title": "1159. 농구 경기",
     "permalink": "/docs/Problem Solving/BOJ/농구 경기"

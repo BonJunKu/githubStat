@@ -12,9 +12,9 @@
   "version": "current",
   "sidebarPosition": 1159,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
-    "title": "About",
+    "title": "About PS",
     "permalink": "/docs/Problem Solving/about"
   },
   "next": {

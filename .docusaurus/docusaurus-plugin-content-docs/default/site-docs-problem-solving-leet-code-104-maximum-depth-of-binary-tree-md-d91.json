@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 104,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "10988. 팰린드롬인지 확인하기",
     "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"

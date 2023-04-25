@@ -79,169 +79,181 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7fd'),
+    component: ComponentCreator('/docs', '626'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
-        component: ComponentCreator('/docs/Problem Solving/about', 'b4d'),
+        component: ComponentCreator('/docs/Problem Solving/about', '115'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/BOJ/농구 경기',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/농구 경기', '2a4'),
+        component: ComponentCreator('/docs/Problem Solving/BOJ/농구 경기', '843'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/BOJ/알파벳 갯수',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/알파벳 갯수', '243'),
+        component: ComponentCreator('/docs/Problem Solving/BOJ/알파벳 갯수', 'ae3'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/BOJ/일곱 난쟁이',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/일곱 난쟁이', 'd89'),
+        component: ComponentCreator('/docs/Problem Solving/BOJ/일곱 난쟁이', '27a'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/BOJ/트럭 주차',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/트럭 주차', '731'),
+        component: ComponentCreator('/docs/Problem Solving/BOJ/트럭 주차', 'a53'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/BOJ/팰린드롬인지 확인하기',
-        component: ComponentCreator('/docs/Problem Solving/BOJ/팰린드롬인지 확인하기', 'ab8'),
+        component: ComponentCreator('/docs/Problem Solving/BOJ/팰린드롬인지 확인하기', 'f91'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Array Partition',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Array Partition', 'cc5'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Array Partition', '4e5'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Balanced Binary Tree',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Balanced Binary Tree', '9c3'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Balanced Binary Tree', '979'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '627'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock', '1bd'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Design Circular Queue',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Design Circular Queue', 'c4b'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Design Circular Queue', '231'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Diameter of Binary Tree',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Diameter of Binary Tree', 'df2'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Diameter of Binary Tree', '913'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Implement Queue using Stacks',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Queue using Stacks', '5cb'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Queue using Stacks', '440'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Implement Stack using Queues',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Stack using Queues', 'de6'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Stack using Queues', '154'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Implement Trie',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Trie', '2a7'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Implement Trie', 'fc4'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Invert Binary Tree',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Invert Binary Tree', '852'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Invert Binary Tree', '8be'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Kth Largest Element in an Array',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Kth Largest Element in an Array', '298'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Kth Largest Element in an Array', '3b1'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Longest Univalue Path',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Longest Univalue Path', 'db7'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Longest Univalue Path', 'aad'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree', 'af4'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree', 'f4d'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Merge Two Binary Trees',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Merge Two Binary Trees', '685'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Merge Two Binary Trees', '947'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Minimum Height Trees',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Minimum Height Trees', '489'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Minimum Height Trees', '4a5'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Most Common Word',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Most Common Word', '524'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Most Common Word', 'f56'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Palindrome Pairs',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Palindrome Pairs', '9d6'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Palindrome Pairs', 'e3c'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Product of Array Except Self',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Product of Array Except Self', '1cc'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Product of Array Except Self', 'b05'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Reorder Data in Log Files',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Reorder Data in Log Files', '3d3'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Reorder Data in Log Files', 'd54'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Reverse String',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Reverse String', '11a'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Reverse String', '881'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree', '56a'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree', 'd8b'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
       },
       {
         path: '/docs/Problem Solving/LeetCode/Valid Palindrome',
-        component: ComponentCreator('/docs/Problem Solving/LeetCode/Valid Palindrome', '179'),
+        component: ComponentCreator('/docs/Problem Solving/LeetCode/Valid Palindrome', 'a5e'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "problemSolving"
+      },
+      {
+        path: '/docs/Snippets/about',
+        component: ComponentCreator('/docs/Snippets/about', '257'),
+        exact: true,
+        sidebar: "snippets"
+      },
+      {
+        path: '/docs/Snippets/Initialization',
+        component: ComponentCreator('/docs/Snippets/Initialization', '9fc'),
+        exact: true,
+        sidebar: "snippets"
       }
     ]
   },

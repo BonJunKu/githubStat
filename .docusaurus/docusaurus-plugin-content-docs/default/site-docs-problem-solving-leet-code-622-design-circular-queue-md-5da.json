@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 622,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "617. Merge Two Binary Trees",
     "permalink": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees"

@@ -20,8 +20,8 @@
             {
               "unversionedId": "Problem Solving/about",
               "id": "Problem Solving/about",
-              "title": "About",
-              "description": "- LeetCode : BonJunKu",
+              "title": "About PS",
+              "description": "This is a page for problem solving.",
               "source": "@site/docs/Problem Solving/about.md",
               "sourceDirName": "Problem Solving",
               "slug": "/Problem Solving/about",
@@ -31,9 +31,10 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
+                "title": "About PS",
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "next": {
                 "title": "1159. 농구 경기",
                 "permalink": "/docs/Problem Solving/BOJ/농구 경기"
@@ -53,9 +54,9 @@
               "version": "current",
               "sidebarPosition": 1159,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
-                "title": "About",
+                "title": "About PS",
                 "permalink": "/docs/Problem Solving/about"
               },
               "next": {
@@ -77,7 +78,7 @@
               "version": "current",
               "sidebarPosition": 10808,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "2979. 트럭 주차",
                 "permalink": "/docs/Problem Solving/BOJ/트럭 주차"
@@ -101,7 +102,7 @@
               "version": "current",
               "sidebarPosition": 2309,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "1159. 농구 경기",
                 "permalink": "/docs/Problem Solving/BOJ/농구 경기"
@@ -125,7 +126,7 @@
               "version": "current",
               "sidebarPosition": 2979,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "2309. 일곱 난쟁이",
                 "permalink": "/docs/Problem Solving/BOJ/일곱 난쟁이"
@@ -149,7 +150,7 @@
               "version": "current",
               "sidebarPosition": 10988,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "10808. 알파벳 개수",
                 "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"
@@ -173,7 +174,7 @@
               "version": "current",
               "sidebarPosition": 561,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "543. Diameter of Binary Tree",
                 "permalink": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree"
@@ -197,7 +198,7 @@
               "version": "current",
               "sidebarPosition": 110,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "104. Maximum Depth of Binary Tree",
                 "permalink": "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree"
@@ -221,7 +222,7 @@
               "version": "current",
               "sidebarPosition": 121,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "110. Balanced Binary Tree",
                 "permalink": "/docs/Problem Solving/LeetCode/Balanced Binary Tree"
@@ -245,7 +246,7 @@
               "version": "current",
               "sidebarPosition": 622,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "617. Merge Two Binary Trees",
                 "permalink": "/docs/Problem Solving/LeetCode/Merge Two Binary Trees"
@@ -269,7 +270,7 @@
               "version": "current",
               "sidebarPosition": 543,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "344. Reverse String",
                 "permalink": "/docs/Problem Solving/LeetCode/Reverse String"
@@ -293,7 +294,7 @@
               "version": "current",
               "sidebarPosition": 232,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "226. Invert Binary Tree",
                 "permalink": "/docs/Problem Solving/LeetCode/Invert Binary Tree"
@@ -317,7 +318,7 @@
               "version": "current",
               "sidebarPosition": 225,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "215. Kth Largest Element in an Array",
                 "permalink": "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array"
@@ -341,7 +342,7 @@
               "version": "current",
               "sidebarPosition": 208,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "125. Valid Palindrome",
                 "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"
@@ -365,7 +366,7 @@
               "version": "current",
               "sidebarPosition": 226,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "225. Implement Stack using Queues",
                 "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"
@@ -389,7 +390,7 @@
               "version": "current",
               "sidebarPosition": 215,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "208. Implement Trie",
                 "permalink": "/docs/Problem Solving/LeetCode/Implement Trie"
@@ -413,7 +414,7 @@
               "version": "current",
               "sidebarPosition": 687,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "622. Design Circular Queue",
                 "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue"
@@ -437,7 +438,7 @@
               "version": "current",
               "sidebarPosition": 104,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "10988. 팰린드롬인지 확인하기",
                 "permalink": "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기"
@@ -461,7 +462,7 @@
               "version": "current",
               "sidebarPosition": 617,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "561. Array Partition",
                 "permalink": "/docs/Problem Solving/LeetCode/Array Partition"
@@ -485,7 +486,7 @@
               "version": "current",
               "sidebarPosition": 310,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "297. Serialize and Deserialize Binary Tree",
                 "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
@@ -509,7 +510,7 @@
               "version": "current",
               "sidebarPosition": 819,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "687. Longest Univalue Path",
                 "permalink": "/docs/Problem Solving/LeetCode/Longest Univalue Path"
@@ -533,7 +534,7 @@
               "version": "current",
               "sidebarPosition": 336,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "310. Minimum Height Trees",
                 "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees"
@@ -557,7 +558,7 @@
               "version": "current",
               "sidebarPosition": 238,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "232. Implement Queue using Stacks",
                 "permalink": "/docs/Problem Solving/LeetCode/Implement Queue using Stacks"
@@ -581,7 +582,7 @@
               "version": "current",
               "sidebarPosition": 937,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "819. Most Common Word",
                 "permalink": "/docs/Problem Solving/LeetCode/Most Common Word"
@@ -601,7 +602,7 @@
               "version": "current",
               "sidebarPosition": 344,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "336. Palindrome Pairs",
                 "permalink": "/docs/Problem Solving/LeetCode/Palindrome Pairs"
@@ -625,7 +626,7 @@
               "version": "current",
               "sidebarPosition": 297,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "238. Product of Array Except Self",
                 "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"
@@ -649,7 +650,7 @@
               "version": "current",
               "sidebarPosition": 125,
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "problemSolving",
               "previous": {
                 "title": "121. Best Time to Buy and Sell Stock",
                 "permalink": "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
@@ -658,142 +659,186 @@
                 "title": "208. Implement Trie",
                 "permalink": "/docs/Problem Solving/LeetCode/Implement Trie"
               }
+            },
+            {
+              "unversionedId": "Snippets/about",
+              "id": "Snippets/about",
+              "title": "About Snippets",
+              "description": "This is a page for code snippets.",
+              "source": "@site/docs/Snippets/about.md",
+              "sourceDirName": "Snippets",
+              "slug": "/Snippets/about",
+              "permalink": "/docs/Snippets/about",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "About Snippets",
+                "sidebar_position": 1
+              },
+              "sidebar": "snippets",
+              "next": {
+                "title": "Initialization",
+                "permalink": "/docs/Snippets/Initialization"
+              }
+            },
+            {
+              "unversionedId": "Snippets/Initialization",
+              "id": "Snippets/Initialization",
+              "title": "Initialization",
+              "description": "",
+              "source": "@site/docs/Snippets/Initialization.md",
+              "sourceDirName": "Snippets",
+              "slug": "/Snippets/Initialization",
+              "permalink": "/docs/Snippets/Initialization",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "snippets",
+              "previous": {
+                "title": "About Snippets",
+                "permalink": "/docs/Snippets/about"
+              }
             }
           ],
           "drafts": [],
           "sidebars": {
-            "tutorialSidebar": [
+            "problemSolving": [
+              {
+                "type": "doc",
+                "id": "Problem Solving/about"
+              },
               {
                 "type": "category",
-                "label": "Problem Solving",
+                "label": "BOJ",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Problem Solving/about"
+                    "id": "Problem Solving/BOJ/농구 경기"
                   },
                   {
-                    "type": "category",
-                    "label": "BOJ",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/BOJ/농구 경기"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/BOJ/일곱 난쟁이"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/BOJ/트럭 주차"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/BOJ/알파벳 갯수"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/BOJ/팰린드롬인지 확인하기"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "Problem Solving/BOJ/일곱 난쟁이"
                   },
                   {
-                    "type": "category",
-                    "label": "LeetCode",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Balanced Binary Tree"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Valid Palindrome"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Implement Trie"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Kth Largest Element in an Array"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Implement Stack using Queues"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Invert Binary Tree"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Implement Queue using Stacks"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Product of Array Except Self"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Minimum Height Trees"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Palindrome Pairs"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Reverse String"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Diameter of Binary Tree"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Array Partition"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Merge Two Binary Trees"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Design Circular Queue"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Longest Univalue Path"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Most Common Word"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Problem Solving/LeetCode/Reorder Data in Log Files"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "Problem Solving/BOJ/트럭 주차"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/BOJ/알파벳 갯수"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/BOJ/팰린드롬인지 확인하기"
                   }
                 ]
+              },
+              {
+                "type": "category",
+                "label": "LeetCode",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Maximum Depth of Binary Tree"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Balanced Binary Tree"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Best Time to Buy and Sell Stock"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Valid Palindrome"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Implement Trie"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Kth Largest Element in an Array"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Implement Stack using Queues"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Invert Binary Tree"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Implement Queue using Stacks"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Product of Array Except Self"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Minimum Height Trees"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Palindrome Pairs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Reverse String"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Diameter of Binary Tree"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Array Partition"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Merge Two Binary Trees"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Design Circular Queue"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Longest Univalue Path"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Most Common Word"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/LeetCode/Reorder Data in Log Files"
+                  }
+                ]
+              }
+            ],
+            "snippets": [
+              {
+                "type": "doc",
+                "id": "Snippets/about"
+              },
+              {
+                "type": "doc",
+                "id": "Snippets/Initialization"
               }
             ]
           }

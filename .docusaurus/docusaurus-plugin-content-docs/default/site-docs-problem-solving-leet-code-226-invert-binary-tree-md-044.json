@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 226,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "225. Implement Stack using Queues",
     "permalink": "/docs/Problem Solving/LeetCode/Implement Stack using Queues"

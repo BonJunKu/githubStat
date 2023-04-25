@@ -113,120 +113,128 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-7fd": {
+  "/docs-626": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsd-05-7bd"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/Problem Solving/about-b4d": {
+  "/docs/Problem Solving/about-115": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-about-99-b-4bf"
   },
-  "/docs/Problem Solving/BOJ/농구 경기-2a4": {
+  "/docs/Problem Solving/BOJ/농구 경기-843": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-boj-농구-경기a-7-d-725"
   },
-  "/docs/Problem Solving/BOJ/알파벳 갯수-243": {
+  "/docs/Problem Solving/BOJ/알파벳 갯수-ae3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-boj-알파벳-갯수d-33-56c"
   },
-  "/docs/Problem Solving/BOJ/일곱 난쟁이-d89": {
+  "/docs/Problem Solving/BOJ/일곱 난쟁이-27a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-boj-일곱-난쟁이-0-d-5-111"
   },
-  "/docs/Problem Solving/BOJ/트럭 주차-731": {
+  "/docs/Problem Solving/BOJ/트럭 주차-a53": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-boj-트럭-주차-051-adc"
   },
-  "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기-ab8": {
+  "/docs/Problem Solving/BOJ/팰린드롬인지 확인하기-f91": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-boj-팰린드롬인지-확인하기-811-4b7"
   },
-  "/docs/Problem Solving/LeetCode/Array Partition-cc5": {
+  "/docs/Problem Solving/LeetCode/Array Partition-4e5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-array-partition-3-a-7-9e4"
   },
-  "/docs/Problem Solving/LeetCode/Balanced Binary Tree-9c3": {
+  "/docs/Problem Solving/LeetCode/Balanced Binary Tree-979": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-balanced-binary-tree-9-b-6-35e"
   },
-  "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock-627": {
+  "/docs/Problem Solving/LeetCode/Best Time to Buy and Sell Stock-1bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-best-time-to-buy-and-sell-stock-478-c8d"
   },
-  "/docs/Problem Solving/LeetCode/Design Circular Queue-c4b": {
+  "/docs/Problem Solving/LeetCode/Design Circular Queue-231": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-design-circular-queue-5-da-35e"
   },
-  "/docs/Problem Solving/LeetCode/Diameter of Binary Tree-df2": {
+  "/docs/Problem Solving/LeetCode/Diameter of Binary Tree-913": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-diameter-of-binary-tree-962-510"
   },
-  "/docs/Problem Solving/LeetCode/Implement Queue using Stacks-5cb": {
+  "/docs/Problem Solving/LeetCode/Implement Queue using Stacks-440": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-implement-queue-using-stacks-17-d-98e"
   },
-  "/docs/Problem Solving/LeetCode/Implement Stack using Queues-de6": {
+  "/docs/Problem Solving/LeetCode/Implement Stack using Queues-154": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-implement-stack-using-queues-0-bd-c50"
   },
-  "/docs/Problem Solving/LeetCode/Implement Trie-2a7": {
+  "/docs/Problem Solving/LeetCode/Implement Trie-fc4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-implement-triebc-9-3f4"
   },
-  "/docs/Problem Solving/LeetCode/Invert Binary Tree-852": {
+  "/docs/Problem Solving/LeetCode/Invert Binary Tree-8be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-invert-binary-tree-044-f9d"
   },
-  "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array-298": {
+  "/docs/Problem Solving/LeetCode/Kth Largest Element in an Array-3b1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-kth-largest-element-in-an-array-050-f33"
   },
-  "/docs/Problem Solving/LeetCode/Longest Univalue Path-db7": {
+  "/docs/Problem Solving/LeetCode/Longest Univalue Path-aad": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-longest-univalue-path-473-a36"
   },
-  "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree-af4": {
+  "/docs/Problem Solving/LeetCode/Maximum Depth of Binary Tree-f4d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-maximum-depth-of-binary-treed-91-1e4"
   },
-  "/docs/Problem Solving/LeetCode/Merge Two Binary Trees-685": {
+  "/docs/Problem Solving/LeetCode/Merge Two Binary Trees-947": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-merge-two-binary-trees-573-559"
   },
-  "/docs/Problem Solving/LeetCode/Minimum Height Trees-489": {
+  "/docs/Problem Solving/LeetCode/Minimum Height Trees-4a5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-minimum-height-treesc-66-a90"
   },
-  "/docs/Problem Solving/LeetCode/Most Common Word-524": {
+  "/docs/Problem Solving/LeetCode/Most Common Word-f56": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-most-common-word-9-a-2-c2f"
   },
-  "/docs/Problem Solving/LeetCode/Palindrome Pairs-9d6": {
+  "/docs/Problem Solving/LeetCode/Palindrome Pairs-e3c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-palindrome-pairsfe-3-852"
   },
-  "/docs/Problem Solving/LeetCode/Product of Array Except Self-1cc": {
+  "/docs/Problem Solving/LeetCode/Product of Array Except Self-b05": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-product-of-array-except-self-82-d-137"
   },
-  "/docs/Problem Solving/LeetCode/Reorder Data in Log Files-3d3": {
+  "/docs/Problem Solving/LeetCode/Reorder Data in Log Files-d54": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-reorder-data-in-log-files-0-ac-1cc"
   },
-  "/docs/Problem Solving/LeetCode/Reverse String-11a": {
+  "/docs/Problem Solving/LeetCode/Reverse String-881": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-reverse-stringe-46-8a8"
   },
-  "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree-56a": {
+  "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree-d8b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-serialize-and-deserialize-binary-tree-1-cf-0f6"
   },
-  "/docs/Problem Solving/LeetCode/Valid Palindrome-179": {
+  "/docs/Problem Solving/LeetCode/Valid Palindrome-a5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-problem-solving-leet-code-valid-palindromee-1-c-c4e"
+  },
+  "/docs/Snippets/about-257": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-snippets-abouta-03-448"
+  },
+  "/docs/Snippets/Initialization-9fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-snippets-initializatione-20-df3"
   },
   "/-f9c": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

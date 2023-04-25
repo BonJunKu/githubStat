@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 819,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "687. Longest Univalue Path",
     "permalink": "/docs/Problem Solving/LeetCode/Longest Univalue Path"

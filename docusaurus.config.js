@@ -75,18 +75,6 @@ const config = {
     ],
   ],
 
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'snippets',
-  //       path: 'snippets',
-  //       routeBasePath: 'snippets',
-  //       sidebarPath: require.resolve('./sidebars.js'),
-  //     },
-  //   ],
-  // ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -108,6 +96,12 @@ const config = {
             docId: 'Problem Solving/about',
             position: 'left',
             label: 'Problem Solving',
+          },
+          {
+            type: 'doc',
+            docId: 'Snippets/about',
+            position: 'left',
+            label: 'Snippets',
           },
           // {
           //   to: 'snippets/about',

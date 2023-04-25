@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 310,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "297. Serialize and Deserialize Binary Tree",
     "permalink": "/docs/Problem Solving/LeetCode/Serialize and Deserialize Binary Tree"

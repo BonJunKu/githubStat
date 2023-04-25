@@ -87,6 +87,12 @@ export default {
           "label": "Problem Solving"
         },
         {
+          "type": "doc",
+          "docId": "Snippets/about",
+          "position": "left",
+          "label": "Snippets"
+        },
+        {
           "to": "/blog/tags",
           "label": "Tags",
           "position": "right"

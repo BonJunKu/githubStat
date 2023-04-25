@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 543,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "344. Reverse String",
     "permalink": "/docs/Problem Solving/LeetCode/Reverse String"

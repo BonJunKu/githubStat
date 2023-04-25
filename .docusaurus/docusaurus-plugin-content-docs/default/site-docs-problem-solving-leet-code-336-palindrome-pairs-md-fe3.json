@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 336,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "310. Minimum Height Trees",
     "permalink": "/docs/Problem Solving/LeetCode/Minimum Height Trees"

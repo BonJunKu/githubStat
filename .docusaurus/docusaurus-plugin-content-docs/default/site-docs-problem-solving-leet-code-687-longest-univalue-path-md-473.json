@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 687,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "622. Design Circular Queue",
     "permalink": "/docs/Problem Solving/LeetCode/Design Circular Queue"

@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 2309,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "1159. 농구 경기",
     "permalink": "/docs/Problem Solving/BOJ/농구 경기"

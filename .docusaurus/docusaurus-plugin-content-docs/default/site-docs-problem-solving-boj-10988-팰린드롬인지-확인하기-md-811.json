@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 10988,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "10808. 알파벳 개수",
     "permalink": "/docs/Problem Solving/BOJ/알파벳 갯수"

@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 208,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "125. Valid Palindrome",
     "permalink": "/docs/Problem Solving/LeetCode/Valid Palindrome"

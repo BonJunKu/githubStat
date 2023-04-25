@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 232,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "226. Invert Binary Tree",
     "permalink": "/docs/Problem Solving/LeetCode/Invert Binary Tree"

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Snippets/about",
+  "id": "Snippets/about",
+  "title": "About Snippets",
+  "description": "This is a page for code snippets.",
+  "source": "@site/docs/Snippets/about.md",
+  "sourceDirName": "Snippets",
+  "slug": "/Snippets/about",
+  "permalink": "/docs/Snippets/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "About Snippets",
+    "sidebar_position": 1
+  },
+  "sidebar": "snippets",
+  "next": {
+    "title": "Initialization",
+    "permalink": "/docs/Snippets/Initialization"
+  }
+}

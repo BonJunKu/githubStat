@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 215,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "208. Implement Trie",
     "permalink": "/docs/Problem Solving/LeetCode/Implement Trie"

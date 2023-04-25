@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 617,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "561. Array Partition",
     "permalink": "/docs/Problem Solving/LeetCode/Array Partition"

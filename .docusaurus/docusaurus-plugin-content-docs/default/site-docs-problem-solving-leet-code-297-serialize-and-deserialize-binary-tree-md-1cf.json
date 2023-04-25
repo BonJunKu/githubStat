@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 297,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "238. Product of Array Except Self",
     "permalink": "/docs/Problem Solving/LeetCode/Product of Array Except Self"

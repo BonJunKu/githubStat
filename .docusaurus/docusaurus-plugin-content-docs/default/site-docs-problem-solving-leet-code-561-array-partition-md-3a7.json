@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 561,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "543. Diameter of Binary Tree",
     "permalink": "/docs/Problem Solving/LeetCode/Diameter of Binary Tree"

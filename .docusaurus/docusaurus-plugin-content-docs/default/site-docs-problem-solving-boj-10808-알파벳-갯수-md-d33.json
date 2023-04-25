@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 10808,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "2979. 트럭 주차",
     "permalink": "/docs/Problem Solving/BOJ/트럭 주차"

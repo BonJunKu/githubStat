@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Snippets/Initialization",
+  "id": "Snippets/Initialization",
+  "title": "Initialization",
+  "description": "",
+  "source": "@site/docs/Snippets/Initialization.md",
+  "sourceDirName": "Snippets",
+  "slug": "/Snippets/Initialization",
+  "permalink": "/docs/Snippets/Initialization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "snippets",
+  "previous": {
+    "title": "About Snippets",
+    "permalink": "/docs/Snippets/about"
+  }
+}

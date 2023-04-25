@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 121,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
     "title": "110. Balanced Binary Tree",
     "permalink": "/docs/Problem Solving/LeetCode/Balanced Binary Tree"
