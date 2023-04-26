@@ -1,21 +1,21 @@
 ---
-slug: Looking back on 2022
-title: Looking back on 2022
+slug: 2022 회고
+title: 2022 회고
 authors: bonjun
 tags: [diary]
 ---
 
-I proudly wrote like "Talk is cheap. Let's write." on my first page but writing is still not an easy task. To be precise, starting to write is the hardest part. I am trying to write my first article on the easiest possible topic. As I am writing this, it is December 1st, 2022, and there have been so many events that happened this year.
+`Talk is cheap. Let's write` 라고 자신만만하게 대문 글을 걸어놨지만, 글을 쓰는 것은 여전히 쉽지 않은 일이다. 정확히는 글을 쓰는 것을 시작하는 것이 어렵다. 가장 접근하기 쉬운 주제로 첫 글을 써본다. 글을 적고 있는 지금은 2022년 12월 1일이고, 올해에는 참 많은 일이 있었다.
 
-## Even after graduation, I didn't know anything!
+## 졸업을 했는데 할 줄 아는 게 없었다!
 
 ![image-20221201211022292](https://raw.githubusercontent.com/BonJunKu/image_server/upload/img/202212012110328.png)
 
-Before talking about 2022, let me briefly share about last year. After graduating in August 2021, I realized that I didn't know how to do much. I only had some knowledge in mechanical engineering and artificial intelligence. Although I had a degree, I couldn't call myself an engineer because I had never created anything. Upon a recommendation from my high school junior, I participated in a hackathon called [JUNCTION X SEOUL](https://junctionx-seoul-2021.oopy.io/). I was brave enough to apply for the position of an AI engineer, but once the situation called for me to actually create something, I realized that I couldn't do anything. My experience with AI was limited to building some models and doing [personal projects](https://www.youtube.com/watch?v=LFBeaK554nc). At that time, 2-3 days was hardly enough time to collect and preprocess data. Furthermore, our team had planned without incorporating AI. In that situation, I had no role to play. I didn't even know that there were areas like frontend and backend, and it was the first time I had heard of HTML/CSS/JS. It was then that I wanted to try making an actual product and thought that I needed to have the ability to do so in order to not rely on a company later on. Mechanical engineering is inevitably tied to manufacturing, and I have to work based on production facilities, but with computer science, it seemed like I could do anything with just a computer and time.
+2022년 이야기를 하기 전 작년 얘기를 잠깐 해야겠다. 2021년 8월에 졸업한 나는 할 줄 아는 것이 많이 없었다. 약간의 기계공학 지식과 약간의 인공지능 지식이 있었을 뿐이었다. 졸업장은 있지만 정작 엔지니어라고는 할 수 없었다. 무언가를 만들어 본 적이 없었기 때문이다. 고등학교 후배의 권유로 [JUNCTION X SEOUL](https://junctionx-seoul-2021.oopy.io/) 이라는 해커톤에 나간 일이 있었다. 용감하게도 AI 엔지니어(!) 포지션으로 나갔는데, 막상 무언가를 만들어야 하는 상황이 주어지니 할 수 있는 게 없다는 것을 깨달았다. AI관련해서 나의 경험은 모델을 몇 번 짜보고 [개인프로젝트](https://www.youtube.com/watch?v=LFBeaK554nc)를 수행했던 것이 전부였다. 당시 나에게 2박 3일이라는 시간은 데이터를 수집하고 전처리하기에도 벅찬 시간이었다. 게다가 우리 팀은 AI가 포함되지 않은 기획을 했다. 그 상황에서 내가 할 수 있는 역할이 **하나도** 없었다. 나는 프론트엔드, 백엔드라는 영역이 있는 줄도 몰랐고, HTML/CSS/JS 에 대한 것도 처음 알았다. 그때 서야 실제 제품을 만들어내는 일을 해보고 싶었고, 그런 능력이 되어야 나중에 회사에 의존하지 않을 수 있다는 생각을 했다. 기계공학은 필연적으로 제조업에 엮이니, 생산 시설을 기반으로 일을 해야하는데 컴퓨터과학은 컴퓨터 한 대와 시간만 있으면 뭐든 할 수 있을 것 같았다.
 
-## Naver Boostcamp Challenge
+## 네이버 부스트캠프 챌린지
 
-The first thing I did after graduation was studying algorithms at SDS Algorithm Camp and taking part in the [Naver Boostcamp Challenge](https://boostcamp.connect.or.kr/) education program. There were overwhelmingly many computer science majors, but I was able to build a solid foundation there. At Boostcamp, we had to complete missions every day, which involved implementing computer science knowledge into vanilla JavaScript. However, I had to spend a considerable amount of time trying to understand the missions. While I managed to endure the first 1-2 weeks, later on, I had to study computer science basics from YouTube videos as I couldn't understand the problems themselves. I think Boostcamp helped me improve my development stamina. It was extremely challenging to concentrate for 12 hours while grappling with a single problem, but looking back, I think it laid the foundation for me to focus continuously without getting exhausted. The photo below shows a snack box that was delivered to my home right after I passed the Boostcamp entrance exam, which gave me energy while developing... the extra pounds were just an added bonus.
+졸업 후 가장 먼저 한 일은 SDS알고리즘 캠프에서 알고리즘을 공부한 것, 그리고 [네이버 부스트캠프](https://boostcamp.connect.or.kr/) 챌린지 교육을 받은 것이었다. 컴퓨터공학 전공생이 압도적으로 많았는데, 그곳에서 부족한 기본기를 쌓았다. 부스트캠프에서는 매일매일 미션을 수행해야 했는데, 컴퓨터과학 전공지식을 바닐라 자바스크립트로 구현해보는 것이었다. 그러나 나는 미션을 이해하기 위해 상당 시간을 소비해야했다. 초반 1~2주는 어떻게 버텼지만, 나중엔 문제 자체를 이해하지 못해 전공 기초 유튜브부터 공부해야 했다. 부스트캠프에서는 **개발적인 체력**을 많이 길렀다고 생각한다. 한 가지 문제를 씨름하면서 12시간씩 집중하는 일이 무척이나 힘든 일이긴 했지만, 돌이켜보면 그것이 나중에 지치지 않고 지속해서 집중할 수 있는 밑거름이 된 것 같다. 아래 사진은 부스트 캠프 합격 직후 집으로 날아온 간식 박스인데, 개발할 때 먹으니 힘이 났다(...) ~~살찌는 건 덤~~
 
 ![image-20221201210528126](https://raw.githubusercontent.com/BonJunKu/image_server/upload/img/202212012105153.png)
 
@@ -81,8 +81,8 @@ The first thing I did after graduation was studying algorithms at SDS Algorithm 
 
 그리고 12월, 구글 애드센스로 두 번째 출금을 하게 되었다. 글을 쓰지 않은 지 2년이 다 되어가는 [이전 블로그](https://ranggun.tistory.com/)는 주식 관련 글이 많아서 그런지 사람들이 종종 온다. 광고가 달려 있어 광고 수익을 열심히 모으면 1년에 100달러 정도 되는 것 같다. 글을 열심히 쓰면 더 수익이 올라갈 텐데, 하는 아쉬움과 노동 없는 소득의 달콤함을 동시에 느낀다. 이 블로그에는 광고를 달게 될 것 같지는 않지만, 글은 꾸준히 써야겠다.
 
-## Closing Remarks
+## 마치며
 
-As 2022 draws to a close, a year filled with many events, there are more happy memories than difficult ones. Above all, it seems to have been a year of tremendous growth. I remember demonstrating my Software Maestro presentation slides to my family, and their reaction made me proud. The reason I was able to continue growing without becoming exhausted was due to the many people around me who believed in me. I am grateful to my parents, my younger sibling, and my girlfriend, who always believed in me and supported me. Thanks to them, I have become more confident in myself and able to work harder.
+많은 일이 있었던 2022년이 끝을 향해 달려가고 있다. 힘든 날도 많았지만 웃었던 기억이 더 많이 남는다. 무엇보다 가장 많이 성장한 한 해인 것 같다. 소프트웨어 마에스트로 발표했던 슬라이드를 가지고 가족들 앞에서 시연했던 적이 있는데, 다들 '우와' 해줘서 뿌듯했다. 지치지 않고 성장할 수 있었던 것은 주변의 많은 사람이 나를 믿어줬기 때문이다. 항상 나를 믿어주고 응원해줬던 부모님, 동생, 여자친구에게 감사를 전한다. 덕분에 나도 나 자신을 믿고 노력할 수 있게 됐다.
 
-As 2022 comes to a close, a new beginning is eagerly approaching. My life will become even more colorful next year.
+2022년은 끝나가지만, 또다시 새로운 시작이 설렘으로 다가오고 있다. 내년에는 인생이 더 다채로워질 것이다.

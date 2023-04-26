@@ -43,13 +43,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/2022 회고',
-    component: ComponentCreator('/blog/2022 회고', '5ec'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', 'a2e'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'a2e'),
+    path: '/blog/Looking back on 2022',
+    component: ComponentCreator('/blog/Looking back on 2022', 'bc5'),
     exact: true
   },
   {

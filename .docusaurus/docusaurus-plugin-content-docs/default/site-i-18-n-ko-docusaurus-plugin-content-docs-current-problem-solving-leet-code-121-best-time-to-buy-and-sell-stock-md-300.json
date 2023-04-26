@@ -12,10 +12,10 @@
   "version": "current",
   "sidebarPosition": 121,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
-    "title": "10808. 알파벳 개수",
-    "permalink": "/ko/docs/Problem Solving/BOJ/알파벳 갯수"
+    "title": "110. Balanced Binary Tree",
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Balanced Binary Tree"
   },
   "next": {
     "title": "125. Valid Palindrome",

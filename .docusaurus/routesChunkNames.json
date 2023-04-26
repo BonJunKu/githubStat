@@ -55,20 +55,20 @@
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/2022 회고-5ec": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---blogdcd-095"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2022-회고-1-de-786"
-  },
   "/blog/archive-a2e": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---blogdcd-095"
     },
     "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/Looking back on 2022-bc5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogdcd-095"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-looking-back-on-20221-de-bf9"
   },
   "/blog/tags-055": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",

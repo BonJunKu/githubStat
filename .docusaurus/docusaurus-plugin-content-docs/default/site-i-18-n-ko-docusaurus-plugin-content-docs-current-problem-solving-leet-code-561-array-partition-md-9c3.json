@@ -12,13 +12,13 @@
   "version": "current",
   "sidebarPosition": 561,
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebar": "problemSolving",
   "previous": {
-    "title": "344. Reverse String",
-    "permalink": "/ko/docs/Problem Solving/LeetCode/Reverse String"
+    "title": "543. Diameter of Binary Tree",
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Diameter of Binary Tree"
   },
   "next": {
-    "title": "819. Most Common Word",
-    "permalink": "/ko/docs/Problem Solving/LeetCode/Most Common Word"
+    "title": "617. Merge Two Binary Trees",
+    "permalink": "/ko/docs/Problem Solving/LeetCode/Merge Two Binary Trees"
   }
 }
