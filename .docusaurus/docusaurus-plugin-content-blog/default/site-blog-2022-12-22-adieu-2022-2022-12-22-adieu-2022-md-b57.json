@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/Looking back on 2022",
+  "source": "@site/blog/2022-12-22-Adieu-2022/2022-12-22-Adieu-2022.md",
+  "title": "Looking back on 2022",
+  "description": "I proudly wrote like \"Talk is cheap. Let's write.\" on my first page but writing is still not an easy task. To be precise, starting to write is the hardest part. I am trying to write my first article on the easiest possible topic. As I am writing this, it is December 1st, 2022, and there have been so many events that happened this year.",
+  "date": "2022-12-22T00:00:00.000Z",
+  "formattedDate": "December 22, 2022",
+  "tags": [
+    {
+      "label": "diary",
+      "permalink": "/blog/tags/diary"
+    }
+  ],
+  "readingTime": 16.615,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bonjun Ku",
+      "title": "Software Engineer",
+      "url": "https://github.com/bonjunku",
+      "imageURL": "https://avatars.githubusercontent.com/u/62752488?v=4",
+      "key": "bonjun"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Looking back on 2022",
+    "title": "Looking back on 2022",
+    "authors": "bonjun",
+    "tags": [
+      "diary"
+    ]
+  }
+}

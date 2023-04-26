@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '4a9'),
+    component: ComponentCreator('/blog', '066'),
     exact: true
   },
   {
@@ -49,7 +49,7 @@ export default [
   },
   {
     path: '/blog/Looking back on 2022',
-    component: ComponentCreator('/blog/Looking back on 2022', 'bc5'),
+    component: ComponentCreator('/blog/Looking back on 2022', '628'),
     exact: true
   },
   {
@@ -59,7 +59,7 @@ export default [
   },
   {
     path: '/blog/tags/diary',
-    component: ComponentCreator('/blog/tags/diary', '35e'),
+    component: ComponentCreator('/blog/tags/diary', '4a3'),
     exact: true
   },
   {
