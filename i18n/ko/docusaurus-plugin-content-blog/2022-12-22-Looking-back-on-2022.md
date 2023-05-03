@@ -7,6 +7,8 @@ tags: [diary]
 
 `Talk is cheap. Let's write` 라고 자신만만하게 대문 글을 걸어놨지만, 글을 쓰는 것은 여전히 쉽지 않은 일이다. 정확히는 글을 쓰는 것을 시작하는 것이 어렵다. 가장 접근하기 쉬운 주제로 첫 글을 써본다. 글을 적고 있는 지금은 2022년 12월 1일이고, 올해에는 참 많은 일이 있었다.
 
+<!--truncate-->
+
 ## 졸업을 했는데 할 줄 아는 게 없었다!
 
 ![image-20221201211022292](https://raw.githubusercontent.com/BonJunKu/image_server/upload/img/202212012110328.png)
