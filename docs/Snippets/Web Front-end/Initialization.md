@@ -22,13 +22,13 @@ index.html
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>App</title>
   </head>
   <body></body>
 </html>
 ```
 
-1. On VS Code, you can learn a skeleton code of `index.html` with `!` + `Enter`.
+1. On VS Code, you can configure a skeleton code of `index.html` with `!` + `Enter`.
 2. `meta` tag should be inside of `<head>` tag.
 3. The meta viewport tag, which is not a standard tag, is used to support Apple browsers, and it refers to the area that is actually visible to users, regardless of the size of the content in the browser.
 4. The default size of the viewport is 980px.
