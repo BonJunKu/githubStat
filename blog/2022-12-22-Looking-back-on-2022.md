@@ -7,6 +7,8 @@ tags: [diary]
 
 I proudly wrote like "Talk is cheap. Let's write." on my first page but writing is still not an easy task. To be precise, starting to write is the hardest part. I am trying to write my first article on the easiest possible topic. As I am writing this, it is December 1st, 2022, and there have been so many events that happened this year.
 
+<!--truncate-->
+
 ## Even after graduation, I didn't know anything!
 
 ![image-20221201211022292](https://raw.githubusercontent.com/BonJunKu/image_server/upload/img/202212012110328.png)

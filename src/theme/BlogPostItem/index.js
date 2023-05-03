@@ -15,26 +15,29 @@ function useContainerClassName() {
 export default function BlogPostItem({ children, className }) {
   const containerClassName = useContainerClassName();
   const { colorMode } = useColorMode();
+  const { isBlogPostPage } = useBlogPost();
   return (
     <BlogPostItemContainer className={clsx(containerClassName, className)}>
       <BlogPostItemHeader />
       <BlogPostItemContent>{children}</BlogPostItemContent>
       <BlogPostItemFooter />
       <br />
-      <Giscus
-        id='comments'
-        repo='BonJunKu/BonJunKu'
-        repoId='R_kgDOGHrcBw'
-        category='Comments'
-        categoryId='DIC_kwDOGHrcB84CS81C'
-        mapping='pathname'
-        reactionsEnabled='1'
-        emitMetadata='0'
-        inputPosition='top'
-        theme={colorMode}
-        lang='en'
-        loading='lazy'
-      />
+      {isBlogPostPage && (
+        <Giscus
+          id='comments'
+          repo='BonJunKu/BonJunKu'
+          repoId='R_kgDOGHrcBw'
+          category='Comments'
+          categoryId='DIC_kwDOGHrcB84CS81C'
+          mapping='pathname'
+          reactionsEnabled='1'
+          emitMetadata='0'
+          inputPosition='top'
+          theme={colorMode}
+          lang='en'
+          loading='lazy'
+        />
+      )}
     </BlogPostItemContainer>
   );
 }
