@@ -680,18 +680,18 @@
               "sidebar": "snippets",
               "next": {
                 "title": "Initialization",
-                "permalink": "/docs/Snippets/Initialization"
+                "permalink": "/docs/Snippets/Web Front-end/Initialization"
               }
             },
             {
-              "unversionedId": "Snippets/Initialization",
-              "id": "Snippets/Initialization",
+              "unversionedId": "Snippets/Web Front-end/Initialization",
+              "id": "Snippets/Web Front-end/Initialization",
               "title": "Initialization",
-              "description": "",
-              "source": "@site/docs/Snippets/Initialization.md",
-              "sourceDirName": "Snippets",
-              "slug": "/Snippets/Initialization",
-              "permalink": "/docs/Snippets/Initialization",
+              "description": "Getting Started with Vanilla JS",
+              "source": "@site/docs/Snippets/Web Front-end/Initialization.md",
+              "sourceDirName": "Snippets/Web Front-end",
+              "slug": "/Snippets/Web Front-end/Initialization",
+              "permalink": "/docs/Snippets/Web Front-end/Initialization",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -837,8 +837,16 @@
                 "id": "Snippets/about"
               },
               {
-                "type": "doc",
-                "id": "Snippets/Initialization"
+                "type": "category",
+                "label": "Web Front-end",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Snippets/Web Front-end/Initialization"
+                  }
+                ]
               }
             ]
           }

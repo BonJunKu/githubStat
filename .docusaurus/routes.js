@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '626'),
+    component: ComponentCreator('/docs', '07a'),
     routes: [
       {
         path: '/docs/Problem Solving/about',
@@ -250,8 +250,8 @@ export default [
         sidebar: "snippets"
       },
       {
-        path: '/docs/Snippets/Initialization',
-        component: ComponentCreator('/docs/Snippets/Initialization', '9fc'),
+        path: '/docs/Snippets/Web Front-end/Initialization',
+        component: ComponentCreator('/docs/Snippets/Web Front-end/Initialization', 'be2'),
         exact: true,
         sidebar: "snippets"
       }

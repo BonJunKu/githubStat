@@ -196,10 +196,18 @@
         "docId": "Snippets/about"
       },
       {
-        "type": "link",
-        "label": "Initialization",
-        "href": "/docs/Snippets/Initialization",
-        "docId": "Snippets/Initialization"
+        "type": "category",
+        "label": "Web Front-end",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Initialization",
+            "href": "/docs/Snippets/Web Front-end/Initialization",
+            "docId": "Snippets/Web Front-end/Initialization"
+          }
+        ]
       }
     ]
   },
@@ -372,10 +380,10 @@
       "description": "This is a page for code snippets.",
       "sidebar": "snippets"
     },
-    "Snippets/Initialization": {
-      "id": "Snippets/Initialization",
+    "Snippets/Web Front-end/Initialization": {
+      "id": "Snippets/Web Front-end/Initialization",
       "title": "Initialization",
-      "description": "",
+      "description": "Getting Started with Vanilla JS",
       "sidebar": "snippets"
     }
   }

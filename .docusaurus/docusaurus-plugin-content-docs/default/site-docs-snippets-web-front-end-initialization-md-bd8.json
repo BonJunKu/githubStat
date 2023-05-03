@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Snippets/Web Front-end/Initialization",
+  "id": "Snippets/Web Front-end/Initialization",
+  "title": "Initialization",
+  "description": "Getting Started with Vanilla JS",
+  "source": "@site/docs/Snippets/Web Front-end/Initialization.md",
+  "sourceDirName": "Snippets/Web Front-end",
+  "slug": "/Snippets/Web Front-end/Initialization",
+  "permalink": "/docs/Snippets/Web Front-end/Initialization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "snippets",
+  "previous": {
+    "title": "About Snippets",
+    "permalink": "/docs/Snippets/about"
+  }
+}
